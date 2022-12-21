@@ -1,0 +1,40 @@
+2022/12/11 09:09:55 [warn] 794454#794454: conflicting server name "159.223.72.173" on 0.0.0.0:80, ignored
+2022/12/11 18:57:19 [warn] 940588#940588: conflicting server name "159.223.72.173" on 0.0.0.0:80, ignored
+2022/12/11 18:57:19 [warn] 940589#940589: conflicting server name "159.223.72.173" on 0.0.0.0:80, ignored
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 18:57:19 [emerg] 940589#940589: still could not bind()
+2022/12/11 19:05:05 [warn] 942506#942506: conflicting server name "103.157.135.131" on 0.0.0.0:80, ignored
+2022/12/11 19:05:05 [warn] 942507#942507: conflicting server name "103.157.135.131" on 0.0.0.0:80, ignored
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:05:05 [emerg] 942507#942507: still could not bind()
+2022/12/11 19:11:20 [warn] 944043#944043: conflicting server name "103.157.135.131" on 0.0.0.0:80, ignored
+2022/12/11 19:11:20 [warn] 944044#944044: conflicting server name "103.157.135.131" on 0.0.0.0:80, ignored
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to 0.0.0.0:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: bind() to [::]:80 failed (98: Unknown error)
+2022/12/11 19:11:20 [emerg] 944044#944044: still could not bind()

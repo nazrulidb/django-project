@@ -1,0 +1,4102 @@
+{
+   "YE": [
+      {
+         "Sl. No.": 1,
+         "Student's ID": "2016-1-1-001",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.96686747,
+         "Result": "Passed",
+         "Term GPA": 3.928571429,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 82.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 576,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 658.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 26,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 34,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 30,
+               "Total (100%)": 91,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 26,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 46,
+               "Final Exam. (50%)": 44,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 2,
+         "Student's ID": "2016-1-1-002",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.295180723,
+         "Result": "Passed",
+         "Term GPA": 3.428571429,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 72,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 475,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 547,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "19th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 17,
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 24,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 27,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 36,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 34,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 3,
+         "Student's ID": "2016-1-1-003",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.80873494,
+         "Result": "Passed",
+         "Term GPA": 2.857142857,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 60,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 406.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 466.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "50th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 16.5,
+               "Term Final (72%)": 18,
+               "Total (100%)": 52,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 26,
+               "Total (100%)": 53,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 16,
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 12,
+               "Total (100%)": 55,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 28,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 51,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 4,
+         "Student's ID": "2016-1-1-004",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.2265625,
+         "Result": "Withheld",
+         "Term GPA": 3.642857143,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 76.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 439.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 139,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 516.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 160,
+         "Merit Position": "50th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 25,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 32,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 25,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 36,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 5,
+         "Student's ID": "2016-1-1-007",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.436746988,
+         "Result": "Passed",
+         "Term GPA": 3.535714286,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 74.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 496.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 570.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "12th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 24,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 27,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 23.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 23.5,
+               "Term Final (72%)": 26,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 69,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 71,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 6,
+         "Student's ID": "2016-1-1-008",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.968373494,
+         "Result": "Passed",
+         "Term GPA": 3.321428571,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 69.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 423,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 492.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "41st",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 16,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 16.5,
+               "Term Final (72%)": 30,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 16,
+               "Total (100%)": 54,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 18,
+               "Term Final (72%)": 23,
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 7,
+         "Student's ID": "2016-1-1-009",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.24246988,
+         "Result": "Passed",
+         "Term GPA": 3.285714286,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 69,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 469.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 538.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "24th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 19,
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 18.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 62,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 17,
+               "Term Final (72%)": 24,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 32,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 38,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 36,
+               "Final Exam. (50%)": 34,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 8,
+         "Student's ID": "2016-1-1-010",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.593373494,
+         "Result": "Passed",
+         "Term GPA": 3.678571429,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 77.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 519.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 596.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "7th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 24,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 27,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 24,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 31,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 9,
+         "Student's ID": "2016-1-1-011",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.170180723,
+         "Result": "Passed",
+         "Term GPA": 3.285714286,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 69,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 457.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 526.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "27th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 24.5,
+               "Term Final (72%)": 20,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 17,
+               "Term Final (72%)": 22,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 16,
+               "Term Final (72%)": 25,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 21,
+               "Term Final (72%)": 22,
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 36,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 32,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 57,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 10,
+         "Student's ID": "2016-1-1-012",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.290662651,
+         "Result": "Passed",
+         "Term GPA": 3.285714286,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 69,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 477.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 145,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 546.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "20th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Math-I,Math-II",
+         "Remarks": "",
+         "Subjects": {
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 21,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 29,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 20,
+               "Total (100%)": 69,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Entrepreneurship & Project Development": {
+               "credits": "3",
+               "code": " TEM 403",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 23,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "YE Industrial Attachment": {
+               "credits": "3",
+               "code": " YE 404",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "YE Project Work": {
+               "credits": "3",
+               "code": " YE 406",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 33,
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "YE Comprehensive Viva": {
+               "credits": "3",
+               "code": " YE 408",
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      }
+   ],
+   "FME": [
+      {
+         "Sl. No.": 1,
+         "Student's ID": "2016-1-2-001",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.868975904,
+         "Result": "Passed",
+         "Term GPA": 4,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Nonwoven": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 88,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 554.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 642.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 27,
+               "Term Final (72%)": 32,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 27,
+               "Term Final (72%)": 26,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 34,
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 27,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 2,
+         "Student's ID": "2016-1-2-002",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.265060241,
+         "Result": "Passed",
+         "Term GPA": 3.761363636,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 82.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 450.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 141,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 542,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 28,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 23.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 27,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 26,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 34,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 43,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 3,
+         "Student's ID": "2016-1-2-003",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.055722892,
+         "Result": "Passed",
+         "Term GPA": 3,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.00",
+         "\u2211Ci\u00d7Gi  of the Term": 66,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 441.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 507.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "44th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 18.5,
+               "Term Final (72%)": 17,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 16,
+               "Term Final (72%)": 24,
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 31,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 21,
+               "Term Final (72%)": 19,
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 31,
+               "Final Exam. (50%)": 28,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 29,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 4,
+         "Student's ID": "2016-1-2-004",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.937116564,
+         "Result": "Withheld",
+         "Term GPA": 2.863636364,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 63,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 415.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 141,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 478.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 163,
+         "Merit Position": "44th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Chem-II",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 16,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 24,
+               "Term Final (72%)": 14,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 3.5,
+               "Term Final (72%)": 16,
+               "Total (100%)": 49,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 13.5,
+               "Term Final (72%)": 23,
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 28,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 33,
+               "Final Exam. (50%)": 26,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 55,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 5,
+         "Student's ID": "2016-1-2-005",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.509036145,
+         "Result": "Passed",
+         "Term GPA": 3.647727273,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 80.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 502.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 582.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "16th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "Chem-II",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 27,
+               "Term Final (72%)": 32,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 23,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 18,
+               "Term Final (72%)": 22,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 71,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 34,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 6,
+         "Student's ID": "2016-1-2-006",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.715909091,
+         "Result": "Withheld",
+         "Term GPA": 2.681818182,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.50",
+         "\u2211Ci\u00d7Gi  of the Term": 59,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 359.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 132,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 418.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 154,
+         "Merit Position": "16th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "EM,TP,ACE,Knitting-I",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 20,
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 13.5,
+               "Term Final (72%)": 14,
+               "Total (100%)": 46,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 14,
+               "Term Final (72%)": 19,
+               "Total (100%)": 41,
+               "Letter Grade": "D",
+               "Grade Point": "2.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 14.5,
+               "Term Final (72%)": 11,
+               "Total (100%)": 50,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 29,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 33,
+               "Final Exam. (50%)": 26,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 7,
+         "Student's ID": "2016-1-2-007",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.234939759,
+         "Result": "Passed",
+         "Term GPA": 3.102272727,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 68.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 468.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 537,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "36th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "EM,TP,ACE,Knitting-I",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 21,
+               "Term Final (72%)": 28,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 10,
+               "Term Final (72%)": 25,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 7.5,
+               "Term Final (72%)": 30,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 8,
+               "Term Final (72%)": 21,
+               "Total (100%)": 62,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 27,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 30,
+               "Total (100%)": 62,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 8,
+         "Student's ID": "2016-1-2-008",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.84186747,
+         "Result": "Passed",
+         "Term GPA": 3.931818182,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 86.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 551.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 637.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "2nd",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "EM,TP,ACE,Knitting-I",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 34,
+               "Total (100%)": 91,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 24,
+               "Term Final (72%)": 29,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 24,
+               "Term Final (72%)": 35,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 22,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 32,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 9,
+         "Student's ID": "2016-1-2-009",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.49246988,
+         "Result": "Passed",
+         "Term GPA": 3.681818182,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 81,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 498.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 579.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "18th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "EM,TP,ACE,Knitting-I",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 28,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 25,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 16.5,
+               "Term Final (72%)": 30,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 21,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 43,
+               "Final Exam. (50%)": 32,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 41,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 10,
+         "Student's ID": "2016-1-2-013",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.572289157,
+         "Result": "Passed",
+         "Term GPA": 3.75,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 9,
+         "Nonwoven": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 82.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 22,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 510.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 593,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "13th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "EM,TP,ACE,Knitting-I",
+         "Remarks": "TP Cleared in L-2 T-II E-2019 with GP 3.00",
+         "Subjects": {
+            "Nonwoven": {
+               "credits": "3",
+               "code": " FE 407",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 32,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Technical Textile": {
+               "credits": "3",
+               "code": " FE 411",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 21,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 29,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 21,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Industrial Attachment": {
+               "credits": "3",
+               "code": " FE 412",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "FE Project Work": {
+               "credits": "3",
+               "code": " FE 414",
+               "Continuous Assess. (50%)": 41,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "FE Comprehensive Viva": {
+               "credits": "3",
+               "code": " FE 416",
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      }
+   ],
+   "WPE": [
+      {
+         "Sl. No.": 1,
+         "Student's ID": "2016-1-3-001",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.542168675,
+         "Result": "Passed",
+         "Term GPA": 3.526315789,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "3.25",
+         "\u2211Ci\u00d7Gi  of the Term": 67,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 521,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 588,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "26th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 18,
+               "Term Final (72%)": 25,
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 25.5,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 41,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 38,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 2,
+         "Student's ID": "2016-1-3-004",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.429216867,
+         "Result": "Passed",
+         "Term GPA": 3.605263158,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 68.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 500.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 569.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "37th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 26,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 15.5,
+               "Term Final (72%)": 24,
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 24.5,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 43,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 92,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 3,
+         "Student's ID": "2016-1-3-005",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.756024096,
+         "Result": "Passed",
+         "Term GPA": 3.605263158,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 68.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 555,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 623.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "7th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 22,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 16,
+               "Term Final (72%)": 21,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 23,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 43,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 45,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 4,
+         "Student's ID": "2016-1-3-006",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.50753012,
+         "Result": "Passed",
+         "Term GPA": 3.552631579,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 67.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 514.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 582.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "30th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 22,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 21.5,
+               "Total (100%)": 71,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 24.5,
+               "Term Final (72%)": 20.5,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 43,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 5,
+         "Student's ID": "2016-1-3-007",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.221385542,
+         "Result": "Passed",
+         "Term GPA": 2.894736842,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 55,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 479.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 534.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "51st",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 16,
+               "Total (100%)": 49,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 13.5,
+               "Term Final (72%)": 16,
+               "Total (100%)": 45,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 16,
+               "Term Final (72%)": 23,
+               "Total (100%)": 53,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 32,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 6,
+         "Student's ID": "2016-1-3-008",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.484939759,
+         "Result": "Passed",
+         "Term GPA": 3.671052632,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "3.75",
+         "\u2211Ci\u00d7Gi  of the Term": 69.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 508.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 578.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "33rd",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 23.5,
+               "Term Final (72%)": 22,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 21,
+               "Total (100%)": 69,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 21,
+               "Term Final (72%)": 26,
+               "Total (100%)": 71,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 44,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 7,
+         "Student's ID": "2016-1-3-009",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.71686747,
+         "Result": "Passed",
+         "Term GPA": 3.842105263,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 73,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 544,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 617,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "9th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 24,
+               "Term Final (72%)": 31,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 20.5,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 25.5,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 8,
+         "Student's ID": "2016-1-3-010",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.893072289,
+         "Result": "Passed",
+         "Term GPA": 3.802631579,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 72.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 574,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 646.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "3rd",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 26.5,
+               "Term Final (72%)": 35,
+               "Total (100%)": 92,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 24,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 26.5,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 43,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 92,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 9,
+         "Student's ID": "2016-1-3-011",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.768072289,
+         "Result": "Passed",
+         "Term GPA": 3.894736842,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "3.50",
+         "\u2211Ci\u00d7Gi  of the Term": 74,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 551.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 625.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "6th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 33,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 23.5,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 27.5,
+               "Term Final (72%)": 26,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 46,
+               "Total (100%)": 93,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 10,
+         "Student's ID": "2016-1-3-014",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.549698795,
+         "Result": "Passed",
+         "Term GPA": 3.486842105,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "Testing and Quality Control of Finished Textiles": "4.00",
+         "\u2211Ci\u00d7Gi  of the Term": 66.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 19,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 523,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 589.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 166,
+         "Merit Position": "23rd",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Wet Processing": {
+               "credits": "3",
+               "code": " WPE 409",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 25,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Testing and Quality Control of Finished Textiles": {
+               "credits": "3",
+               "code": " WPE 411",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 21,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 17,
+               "Term Final (72%)": 24,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "WPE Industrial Attachment": {
+               "credits": "3",
+               "code": " WPE 414",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Project Work": {
+               "credits": "3",
+               "code": " WPE 416",
+               "Continuous Assess. (50%)": 44,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "WPE Comprehensive Viva": {
+               "credits": "3",
+               "code": " WPE 418",
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      }
+   ],
+   "AME": [
+      {
+         "Sl. No.": 1,
+         "Student's ID": "2016-1-4-001",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.943597561,
+         "Result": "Passed",
+         "Term GPA": 3.107142857,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 65.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 417.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 482.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "58th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 15.5,
+               "Term Final (72%)": 29,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 18.5,
+               "Term Final (72%)": 15.5,
+               "Total (100%)": 50,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 9,
+               "Total (100%)": 49,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 23,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 2,
+         "Student's ID": "2016-1-4-002",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.198170732,
+         "Result": "Passed",
+         "Term GPA": 3.571428571,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 449.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 524.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "40th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 31,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 33,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 24.5,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 25,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 38,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 36,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 3,
+         "Student's ID": "2016-1-4-003",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.818597561,
+         "Result": "Passed",
+         "Term GPA": 3.892857143,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 81.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 544.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 626.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "4th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 26.5,
+               "Term Final (72%)": 31,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 28,
+               "Term Final (72%)": 30,
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 27,
+               "Term Final (72%)": 24,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 27.5,
+               "Term Final (72%)": 25.5,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 43,
+               "Total (100%)": 91,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 4,
+         "Student's ID": "2016-1-4-004",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.18445122,
+         "Result": "Passed",
+         "Term GPA": 3.357142857,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 70.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 451.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 522.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "43rd",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 14.5,
+               "Term Final (72%)": 24.5,
+               "Total (100%)": 65,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 18.5,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 22,
+               "Total (100%)": 62,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 36,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 40,
+               "Final Exam. (50%)": 43,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 5,
+         "Student's ID": "2016-1-4-005",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.958841463,
+         "Result": "Passed",
+         "Term GPA": 3.214285714,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 67.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 417.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 485.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "57th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 16,
+               "Term Final (72%)": 25,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 25.5,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 21,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 23,
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 38,
+               "Final Exam. (50%)": 31,
+               "Total (100%)": 69,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 34,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 63,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 6,
+         "Student's ID": "2016-1-4-007",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.757621951,
+         "Result": "Passed",
+         "Term GPA": 3.642857143,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 76.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 539.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 616.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "10th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 31,
+               "Total (100%)": 76,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 22,
+               "Term Final (72%)": 32,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 23,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 26,
+               "Term Final (72%)": 23.5,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 41,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 7,
+         "Student's ID": "2016-1-4-008",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.643548387,
+         "Result": "Withheld",
+         "Term GPA": 2.708333333,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 48.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 361,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 137,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 409.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 155,
+         "Merit Position": "10th",
+         "Failed Subject(s) in this Term": "IEAP",
+         "Failed Subject(s) up to Previous Term": "Math-I,FSD",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 4.5,
+               "Term Final (72%)": 28.5,
+               "Total (100%)": 50,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 7,
+               "Term Final (72%)": 16,
+               "Total (100%)": 30,
+               "Letter Grade": "F",
+               "Grade Point": "0.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 16.5,
+               "Total (100%)": 41,
+               "Letter Grade": "D",
+               "Grade Point": "2.00"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 5.5,
+               "Term Final (72%)": 20,
+               "Total (100%)": 42,
+               "Letter Grade": "D",
+               "Grade Point": "2.00"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 35,
+               "Final Exam. (50%)": 27,
+               "Total (100%)": 62,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 44,
+               "Final Exam. (50%)": 33,
+               "Total (100%)": 77,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 60,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 8,
+         "Student's ID": "2016-1-4-009",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.710365854,
+         "Result": "Passed",
+         "Term GPA": 3.785714286,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 79.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 529,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 608.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "16th",
+         "Failed Subject(s) in this Term": "IEAP",
+         "Failed Subject(s) up to Previous Term": "Math-I,FSD",
+         "Remarks": "",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 28,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 24.5,
+               "Term Final (72%)": 32,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 27.5,
+               "Term Final (72%)": 21.5,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 25,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 41,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 9,
+         "Student's ID": "2016-1-4-010",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.242378049,
+         "Result": "Passed",
+         "Term GPA": 3.321428571,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 6.75,
+         "\u2211Ci\u00d7Gi  of the Term": 69.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 455.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 140,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 531.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "16th",
+         "Failed Subject(s) in this Term": "IEAP",
+         "Failed Subject(s) up to Previous Term": "Math-I,FSD",
+         "Remarks": "WP-II Cleared in L-3 T-II E-2019 with GP 2.25",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 19,
+               "Term Final (72%)": 31,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 18,
+               "Term Final (72%)": 22,
+               "Total (100%)": 64,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 15,
+               "Term Final (72%)": 19,
+               "Total (100%)": 51,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 18.5,
+               "Term Final (72%)": 22.5,
+               "Total (100%)": 59,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 33,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 42,
+               "Final Exam. (50%)": 33,
+               "Total (100%)": 75,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 10,
+         "Student's ID": "2016-1-4-011",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.550304878,
+         "Result": "Passed",
+         "Term GPA": 3.392857143,
+         "\u2211Ci\u00d7Gi of retake subject(s)": 6.75,
+         "\u2211Ci\u00d7Gi  of the Term": 71.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 21,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 511,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 143,
+         "Credits Completed of retake subject(s)": 3,
+         "\u2211Ci\u00d7Gi  upto this Term": 582.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 164,
+         "Merit Position": "27th",
+         "Failed Subject(s) in this Term": "IEAP",
+         "Failed Subject(s) up to Previous Term": "Math-I,FSD",
+         "Remarks": "WP-II Cleared in L-3 T-II E-2019 with GP 2.25",
+         "Subjects": {
+            "Special Apparel Production": {
+               "credits": "3",
+               "code": " AE 411",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 29,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Industrial Engineering in Apparel Production": {
+               "credits": "3",
+               "code": " AE 413",
+               "Continuous Assess. (28%)": 24.5,
+               "Term Final (72%)": 25.5,
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Compliance in Apparel Industry": {
+               "credits": "3",
+               "code": " AE 415",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 24,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Sociology": {
+               "credits": "3",
+               "code": " HSS 401",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 21,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "AE Industrial Attachment": {
+               "credits": "3",
+               "code": " AE 416",
+               "Continuous Assess. (50%)": 44,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "AE Project Work": {
+               "credits": "3",
+               "code": " AE 418",
+               "Continuous Assess. (50%)": 38,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "AE Comprehensive Viva": {
+               "credits": "3",
+               "code": " AE 420",
+               "Total (100%)": 58,
+               "Letter Grade": "B-",
+               "Grade Point": "2.75"
+            }
+         }
+      }
+   ],
+   "TEM": [
+      {
+         "Sl. No.": 1,
+         "Student's ID": "2016-1-5-001",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.683333333,
+         "Result": "Passed",
+         "Term GPA": 3.583333333,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 64.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 543.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 607.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Merit Position": "5th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 12.5,
+               "Total (100%)": 43,
+               "Letter Grade": "D",
+               "Grade Point": "2.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 28,
+               "Term Final (72%)": 25,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 25,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 46,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 2,
+         "Student's ID": "2016-1-5-002",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.528787879,
+         "Result": "Passed",
+         "Term GPA": 3.541666667,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 63.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 518.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 582.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Merit Position": "9th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 17.5,
+               "Term Final (72%)": 20,
+               "Total (100%)": 51,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 17,
+               "Total (100%)": 72,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 33,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 34.5,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 3,
+         "Student's ID": "2016-1-5-004",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.568181818,
+         "Result": "Passed",
+         "Term GPA": 3.25,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 58.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 530.25,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 588.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Merit Position": "7th",
+         "Failed Subject(s) in this Term": "",
+         "Failed Subject(s) up to Previous Term": "",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 14,
+               "Term Final (72%)": 15,
+               "Total (100%)": 40,
+               "Letter Grade": "D",
+               "Grade Point": "2.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 13.5,
+               "Total (100%)": 61,
+               "Letter Grade": "B",
+               "Grade Point": "3.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 30,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 45,
+               "Final Exam. (50%)": 36.5,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 35,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 4,
+         "Student's ID": "2016-1-5-005",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.237421384,
+         "Result": "Withheld",
+         "Term GPA": 3.8,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 57,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 15,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 457.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 514.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 159,
+         "Merit Position": "7th",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "TP",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 18.5,
+               "Term Final (72%)": 13,
+               "Total (100%)": 38,
+               "Letter Grade": "F",
+               "Grade Point": "0.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 24,
+               "Term Final (72%)": 31,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 18,
+               "Term Final (72%)": 28,
+               "Total (100%)": 73,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 46,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 37,
+               "Total (100%)": 84,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 74,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 5,
+         "Student's ID": "2016-1-5-006",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.83030303,
+         "Result": "Passed",
+         "Term GPA": 3.916666667,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 70.5,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 561.5,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 632,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "TP",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 26.5,
+               "Term Final (72%)": 23.5,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 24.5,
+               "Term Final (72%)": 34,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 25,
+               "Term Final (72%)": 33,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 49,
+               "Final Exam. (50%)": 36.5,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 49,
+               "Final Exam. (50%)": 39,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 80,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            }
+         }
+      },
+      {
+         "Sl. No.": 6,
+         "Student's ID": "2016-1-5-007",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.822530864,
+         "Result": "Withheld",
+         "Term GPA": 3.95,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 59.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 15,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 560,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 619.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 162,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "TP",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 17,
+               "Term Final (72%)": 14,
+               "Total (100%)": 39,
+               "Letter Grade": "F",
+               "Grade Point": "0.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 27,
+               "Term Final (72%)": 23,
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 25.5,
+               "Term Final (72%)": 34,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 44.5,
+               "Total (100%)": 93,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 7,
+         "Student's ID": "2016-1-5-008",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.146604938,
+         "Result": "Withheld",
+         "Term GPA": 3.375,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 60.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 449,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 144,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 509.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 162,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "MMTF",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 14.5,
+               "Term Final (72%)": 20,
+               "Total (100%)": 48,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 19.5,
+               "Term Final (72%)": 20.5,
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 29,
+               "Total (100%)": 66,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 36,
+               "Total (100%)": 83,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 47,
+               "Final Exam. (50%)": 38,
+               "Total (100%)": 85,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 68,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      },
+      {
+         "Sl. No.": 8,
+         "Student's ID": "2016-1-5-009",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 2.746794872,
+         "Result": "Withheld",
+         "Term GPA": 3.25,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 48.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 15,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 379.75,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 141,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 428.5,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 156,
+         "Merit Position": "1st",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "Math-II,QM",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 12,
+               "Term Final (72%)": 14,
+               "Total (100%)": 29,
+               "Letter Grade": "F",
+               "Grade Point": "0.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 20,
+               "Term Final (72%)": 8.5,
+               "Total (100%)": 51,
+               "Letter Grade": "C+",
+               "Grade Point": "2.50"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 17,
+               "Term Final (72%)": 25,
+               "Total (100%)": 45,
+               "Letter Grade": "C",
+               "Grade Point": "2.25"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 40,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 70,
+               "Letter Grade": "A-",
+               "Grade Point": "3.50"
+            }
+         }
+      },
+      {
+         "Sl. No.": 9,
+         "Student's ID": "2016-1-5-010",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.559090909,
+         "Result": "Passed",
+         "Term GPA": 3.791666667,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 68.25,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 519,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 587.25,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Merit Position": "8th",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "Math-II,QM",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 20.5,
+               "Term Final (72%)": 21.5,
+               "Total (100%)": 67,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 22.5,
+               "Term Final (72%)": 27,
+               "Total (100%)": 82,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 21.5,
+               "Term Final (72%)": 28,
+               "Total (100%)": 78,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 90,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 48,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 89,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 79,
+               "Letter Grade": "A",
+               "Grade Point": "3.75"
+            }
+         }
+      },
+      {
+         "Sl. No.": 10,
+         "Student's ID": "2016-1-5-012",
+         "Student's Name": "ABCDEFGH",
+         "CGPA": 3.331790123,
+         "Result": "Withheld",
+         "Term GPA": 3.85,
+         "\u2211Ci\u00d7Gi of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  of the Term": 57.75,
+         "Total Credits Taken in this Term\n(L-4 T-II, Exam.-2019)": 18,
+         "Total Credits Completed in this Term\n(L-4 T-II, Exam.-2019)": 15,
+         "\u2211Ci\u00d7Gi  upto Immediate Past Term\n(L-4 T-I, Exam.-2019)": 482,
+         "Total Credits Completed upto \nImmediate Past Term\n(L-4 T-I, Exam.-2019)": 147,
+         "Credits Completed of retake subject(s)": "",
+         "\u2211Ci\u00d7Gi  upto this Term": 539.75,
+         "Total Credits taken upto this Term\n(L-4 T-II, Exam.-2019)": 165,
+         "Total Credits completed upto this Term\n(L-4 T-II, Exam.-2019)": 162,
+         "Merit Position": "8th",
+         "Failed Subject(s) in this Term": "IB",
+         "Failed Subject(s) up to Previous Term": "Math-II,QM",
+         "Remarks": "",
+         "Subjects": {
+            "International Business": {
+               "credits": "3",
+               "code": " TEM 411",
+               "Continuous Assess. (28%)": 13.5,
+               "Term Final (72%)": 17.5,
+               "Total (100%)": 38,
+               "Letter Grade": "F",
+               "Grade Point": "0.00"
+            },
+            "Production Planning & Control": {
+               "credits": "3",
+               "code": " TEM 413",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 26,
+               "Total (100%)": 81,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "Environmental Studies": {
+               "credits": "3",
+               "code": " WPE 407",
+               "Continuous Assess. (28%)": 23,
+               "Term Final (72%)": 35,
+               "Total (100%)": 86,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Industrial Attachment": {
+               "credits": "3",
+               "code": " TEM 414",
+               "Continuous Assess. (50%)": 46,
+               "Final Exam. (50%)": 41,
+               "Total (100%)": 87,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Project Work": {
+               "credits": "3",
+               "code": " TEM 416",
+               "Continuous Assess. (50%)": 46,
+               "Final Exam. (50%)": 42,
+               "Total (100%)": 88,
+               "Letter Grade": "A+",
+               "Grade Point": "4.00"
+            },
+            "TEM Comprehensive Viva": {
+               "credits": "3",
+               "code": " TEM 418",
+               "Total (100%)": 69,
+               "Letter Grade": "B+",
+               "Grade Point": "3.25"
+            }
+         }
+      }
+   ]
+}
