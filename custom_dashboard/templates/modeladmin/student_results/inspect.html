@@ -1,0 +1,227 @@
+{% extends "wagtailadmin/base.html" %}
+{% load i18n wagtailadmin_tags %}
+{% load static %}
+
+{% block titletag %}{{ view.get_meta_title }}{% endblock %}
+
+{% block extra_css %}
+    {{ block.super }}
+    {{ view.media.css }}
+    <link rel="stylesheet" href="{% versioned_static 'wagtailmodeladmin/css/breadcrumbs_page.css' %}" type="text/css"/>
+    <style>
+        table{
+            background:none;
+        }
+        .pdf-logo{
+            width:75px;
+            margin-right:10px;
+            position: absolute;
+            top: -20px;
+            left: 65px;
+        }
+        .text-left{
+            text-align: left;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
+    <link href="assets/css/dashboard/dash_2.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block extra_js %}
+    {{ block.super }}
+    {{ view.media.js }}
+    <script>
+    window.addEventListener('load', (event) => {
+        console.log("BURAT")
+        $("#filterRes").on('change', function(){
+            console.log($(this).val())
+            v = $(this).val();
+            if(v === "all"){
+                $(".pdf-box").show();
+            }else{
+                $(".pdf-box").hide();
+                $("div[data-filter="+v+"]").show();
+            }
+        })
+    })
+    </script>
+{% endblock %}
+
+{% block content %}
+
+    {% block header %}
+        {% include "modeladmin/includes/header_with_breadcrumb.html" with title=view.get_page_title subtitle=student_name icon=view.header_icon %}
+    {% endblock %}
+
+    <div>
+
+        {% block content_main %}
+            <div class="nice-padding">
+
+                <p class="back"><a href="{{ view.index_url }}" class="icon icon-arrow-left">{% blocktrans trimmed with view.verbose_name as model_name %}Back to {{ model_name }} list{% endblocktrans %}</a></p>
+
+{% block fields_output %}
+
+<div class="col col-4" style="margin-left:auto;">
+    <select id="filterRes" class="form-control" style="max-width:300px;margin-left:auto;">
+        <option selected value="all">All</option>
+        {% for res in student.get_grade_results %}
+            <option value="{{res.level}}-{{res.term}}{% if res.retake %}-retake{% endif %}">Level-{{res.level}} Term-{{res.term}} {% if res.retake %}-retake{% endif %}</option>
+        {% endfor %}
+    </select>
+</div>
+
+{% for res in student.get_grade_results %}
+
+
+<div id="pdfCon{{ res.id }}" data-filter="{{res.level}}-{{res.term}}{% if res.retake %}-retake{% endif %}" class="container pdf-box" style="max-width: 900px;;background-color:white;padding-left:1rem;padding-right:1rem;height:100%;margin-bottom:2rem;">  
+    {% if not res.retake %}
+    <div class="row">
+        
+        <div class="container" style="text-align:center;margin-bottom:1rem;margin-top:3rem;">
+            <h5>
+                B. Sc. in {{ student.department.name }} (Apparel)
+            </h5>
+            <h5>
+                Level-{{res.level}} Term-{{res.term}}, Examination-{{res.year}} (Held in November-December,{{ res.exam_held }})
+            </h5>
+        </div>
+
+        <table id="dTable" class="table table-hover non-hover" style="width:100%;">
+            <thead>
+                <tr>
+                    <th style="width:9%;">Sl. No.</th>
+                    <th style="width:16%;">Subject Code</th>
+                    <th >Name of Subject</th>
+                    <th  class="text-center">Credits</th>
+                    <th style="width:16%;">Letter Grade</th>
+                    <th style="width:16%;">Grade Points</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in res.get_subjects %}
+                <tr>
+                    <td>{{ item.no }}</td>
+                    <td>{{ item.code }}</td>
+                    <td>{{ item.subject }}</td>
+                    <td>{{ item.credits }}</td>
+                    <td>{{ item.letter_grade }}</td>
+                    <td>{{ item.grade_point }}</td> 
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <table class="table table-hover non-hover" style="width:100%;margin-top:3rem;">
+            <thead>
+                <tr>
+                    <th class="text-left" colspan=4>Total credits taken in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_completed_in_this_term }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Total credits completed in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_taken_in_this_term }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Grade Point Average (GPA) of the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.term_gpa }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Failed Subjects(s) in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.failed_subject }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Cummulative Grade Point Average (CGPA):</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.cgpa }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Results:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.result }}</th>
+                </tr>
+            </thead>
+        </table>
+        
+    </div>
+    {% else %}
+    <div class="row">
+       
+        <div class="container" style="text-align:center;margin-bottom:1rem;margin-top:3rem;">
+            <h5>
+                Retake Result
+            </h5>
+        </div>
+       
+        <table id="dTable" class="table table-hover non-hover" style="width:100%;">
+            <thead>
+                <tr>
+                    <th style="width:9%;">Sl. No.</th>
+                    <th style="width:16%;">Subject Code</th>
+                    <th >Name of Subject</th>
+                    <th  class="text-center">Credits</th>
+                    <th style="width:16%;">Letter Grade</th>
+                    <th style="width:16%;">Grade Points</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in res.retake_subject %}
+                <tr>
+                    <td>{{ item.no }}</td>
+                    <td>{{ item.code }}</td>
+                    <td>{{ item.subject }}</td>
+                    <td>{{ item.credits }}</td>
+                    <td>{{ item.letter_grade }}</td>
+                    <td>{{ item.grade_point }}</td> 
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <table class="table table-hover non-hover" style="width:100%;margin-top:3rem;">
+            <thead>
+                <tr>
+                    <th class="text-left" colspan=4>Total credits taken in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_completed_in_this_term }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Total credits completed in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_taken_in_this_term }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Grade Point Average (GPA) of the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.term_gpa }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Failed Subjects(s) in the Term:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.failed_subject }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Cummulative Grade Point Average (CGPA):</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.cgpa }}</th>
+                </tr>
+                <tr>
+                    <th class="text-left" colspan=4>Results:</th>
+                    <th class="text-left" colspan=4>{{ res.get_subject_headers.result }}</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+    {% endif %}
+</div>
+{% endfor %}
+{% endblock %}
+
+            </div>
+        {% endblock %}
+
+    </div>
+
+    {% block footer %}
+        {% if buttons %}
+            <footer class="footer">
+                <div class="button-group footer__container">
+                    {% for button in buttons %}
+                        {% include "modeladmin/includes/button.html" %}
+                    {% endfor %}
+                </div>
+            </footer>
+        {% endif %}
+    {% endblock %}
+{% endblock %}
