@@ -1,0 +1,23 @@
+<script>
+    window.addEventListener('load', (event) => {
+        let userCheckbox = $( "legend:contains('Permissions')" ).closest("fieldset").find("tr:contains('User')").find('input');
+        let up1 = $(userCheckbox[0]);
+        let up2 = $(userCheckbox[1]);
+        let up3 = $(userCheckbox[2]);
+    
+        toggleField()
+        userCheckbox.change(function(){
+            console.log("change")
+            toggleField()
+        })
+
+        function toggleField(){
+            if(up1.is(":checked") || up2.is(":checked") || up3.is(":checked")){
+                $("div[data-contentpath='custom_group']").show();
+            }else{
+                $("#id_custom_group").val("");
+                $("div[data-contentpath='custom_group']").hide();
+            }
+        }
+    })
+</script>
