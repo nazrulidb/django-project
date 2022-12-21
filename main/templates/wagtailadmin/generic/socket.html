@@ -1,0 +1,113 @@
+
+<script type="text/javascript">
+    let PageNumber = 1;
+    let onMessage = false;
+
+    let NotificationManager = function(){
+        let socketReady = false;
+        let onlineUsers = [];
+        let ws_scheme = window.location.protocol == "https:" ? "wss" : "ws";
+        let ws_path;
+        if(window.location.host == "localhost:8000"){
+            ws_path = ws_scheme + '://' + window.location.host + "/"; // development
+        }else{
+            ws_path = ws_scheme + '://' + window.location.host + ":8001/";
+        }
+        
+        let notificationSocket;
+        console.log(ws_path)
+        // Handle incoming messages
+        let connectSocket = function(){
+            notificationSocket = new WebSocket(ws_path);
+            notificationSocket.onmessage = function(message) {
+                let data = JSON.parse(message.data);
+                console.log("Got notification websocket message. " + data.notif_type);
+                console.log(data)
+                if(data.notif_type == 1){
+                }
+            }
+
+            notificationSocket.onopen = function(e){
+                console.log("Notification Socket on open: ", e);
+                if(!socketReady){
+                    socketReady = true;
+                    getOnlineUsers();
+                }
+            }
+
+            notificationSocket.onclose = function(e) {
+                console.error('Notification Socket closed unexpectedly');
+            };
+
+            notificationSocket.onerror = function(e){
+                console.log('Notification Socket error', e);
+            }
+            if (notificationSocket.readyState == WebSocket.OPEN) {
+                console.log("Notification Socket OPEN complete.")
+            } else if (notificationSocket.readyState == WebSocket.CONNECTING){
+                console.log("Notification Socket connecting..")
+            }else if (notificationSocket.readyState == WebSocket.CLOSED){
+                console.log("Notification Socket is closed..")
+            }
+
+            return notificationSocket;
+            
+        }
+
+        this.Socket = connectSocket();
+        
+        this.getOnlineUsers = function(){
+            return onlineUsers;
+        };
+        
+        this.construct = function(){
+            
+        }
+
+        this.construct();
+
+    } //end class
+
+    const notifManager = new NotificationManager();
+    
+    window.addEventListener("pagehide", (event) => {
+        console.log("PAGE GOING TO HIDE")
+        notifManager.Socket.close();
+        if (event.persisted) {
+          /* the page isn't being discarded, so it can be reused later */
+        }
+    }, false);
+      
+</script>
+
+<!-- Payloads sent to consumer -->
+<script type="text/javascript">
+
+	function getFirstChatNotificationsPage(){
+		if("{{request.user.is_authenticated}}"){
+			notifManager.Socket.send(JSON.stringify({
+				"command": "get_chat_notifications",
+				"page_number": "1",
+			}));
+
+		}
+	}
+
+    function getGenNotifications(){
+        notifManager.Socket.send(JSON.stringify({
+            "command": "get_gen_notifications",
+        }));
+    }
+
+    function getOnlineUsers(){
+        notifManager.Socket.send(JSON.stringify({
+            "command": "get_online_users",
+        }));
+    }
+
+</script>
+
+
+
+
+
