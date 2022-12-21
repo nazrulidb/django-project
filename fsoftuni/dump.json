@@ -1,0 +1,5907 @@
+[
+{
+  "model": "institutes.institute",
+  "pk": 1,
+  "fields": {
+    "sort_order": null,
+    "name": "Textile Engineering College Chittagong",
+    "custom_id": "01",
+    "code": "C",
+    "created_at": "2022-08-28T14:40:55.341",
+    "active": true,
+    "collection_key": null
+  }
+},
+{
+  "model": "institutes.institute",
+  "pk": 2,
+  "fields": {
+    "sort_order": null,
+    "name": "test",
+    "custom_id": "02",
+    "code": "SDA",
+    "created_at": "2022-08-28T21:33:02.266",
+    "active": true,
+    "collection_key": "test"
+  }
+},
+{
+  "model": "institutes.institute",
+  "pk": 9,
+  "fields": {
+    "sort_order": null,
+    "name": "gagu",
+    "custom_id": "03",
+    "code": "GKK",
+    "created_at": "2022-08-28T22:27:12.412",
+    "active": true,
+    "collection_key": "gagu"
+  }
+},
+{
+  "model": "institutes.institute",
+  "pk": 11,
+  "fields": {
+    "sort_order": null,
+    "name": "Textile Engineering College Ba",
+    "custom_id": "04",
+    "code": "TT",
+    "created_at": "2022-08-28T22:47:43.132",
+    "active": true,
+    "collection_key": "Textile Engineering College Ba"
+  }
+},
+{
+  "model": "institutes.degree",
+  "pk": 1,
+  "fields": {
+    "sort_order": 0,
+    "institute": 1,
+    "name": "M.sc",
+    "custom_id": "01",
+    "code": "2",
+    "created_at": "2022-08-28T14:40:55.351",
+    "active": true
+  }
+},
+{
+  "model": "departments.department",
+  "pk": 7,
+  "fields": {
+    "sort_order": null,
+    "institute": 9,
+    "name": "gagu kid",
+    "custom_id": "02",
+    "code": "RRR",
+    "created_at": "2022-08-28T22:29:23.649",
+    "active": true,
+    "collection_key": "gagu kid"
+  }
+},
+{
+  "model": "departments.department",
+  "pk": 8,
+  "fields": {
+    "sort_order": null,
+    "institute": 9,
+    "name": "anak ni gagu rename",
+    "custom_id": "03",
+    "code": "UID",
+    "created_at": "2022-08-28T22:30:44.357",
+    "active": true,
+    "collection_key": "anak ni gagu rename"
+  }
+},
+{
+  "model": "departments.department",
+  "pk": 12,
+  "fields": {
+    "sort_order": null,
+    "institute": 11,
+    "name": "Yarn Engineering",
+    "custom_id": "05",
+    "code": "YE",
+    "created_at": "2022-08-28T22:52:15.849",
+    "active": true,
+    "collection_key": "Yarn Engineering"
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 766,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "57",
+    "title_norm": 0.6428571428571429,
+    "autocomplete": "'-1':2 '2016':7 'evpmwev':8 'exam':6 'i':5 'level':1 'term':4 'term-i-exam':3",
+    "title": "'-1':2A '2016':7A 'evpmwev':8A 'exam':6A 'level':1A 'term':4A 'term-i-exam':3A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 778,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "58",
+    "title_norm": 2.25,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 788,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "59",
+    "title_norm": 1.8333333333333333,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 800,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "60",
+    "title_norm": 1.625,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 812,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "61",
+    "title_norm": 1.5,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 824,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "62",
+    "title_norm": 1.4166666666666667,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 831,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "63",
+    "title_norm": 1.3571428571428572,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 838,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "64",
+    "title_norm": 1.3125,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 845,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "65",
+    "title_norm": 1.277777777777778,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 852,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "66",
+    "title_norm": 1.25,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 859,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "67",
+    "title_norm": 1.2272727272727273,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 866,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "68",
+    "title_norm": 1.2083333333333333,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 873,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "69",
+    "title_norm": 1.1923076923076923,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 880,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "70",
+    "title_norm": 1.1785714285714286,
+    "autocomplete": "'excel':2 'test':1",
+    "title": "'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 887,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "customdocument"
+    ],
+    "object_id": "71",
+    "title_norm": 0.8,
+    "autocomplete": "'1':3 'excel':2 'test':1",
+    "title": "'1':3A 'excel':2A 'test':1A",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailcore.locale",
+  "pk": 1,
+  "fields": {
+    "language_code": "en"
+  }
+},
+{
+  "model": "wagtailcore.site",
+  "fields": {
+    "hostname": "localhost",
+    "port": 80,
+    "site_name": "test",
+    "root_page": 4,
+    "is_default_site": true
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 1,
+  "fields": {
+    "path": "0001",
+    "depth": 1,
+    "numchild": 1,
+    "name": "Root"
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 20,
+  "fields": {
+    "path": "00010006",
+    "depth": 2,
+    "numchild": 1,
+    "name": "Textile Engineering College Ba"
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 21,
+  "fields": {
+    "path": "000100060001",
+    "depth": 3,
+    "numchild": 1,
+    "name": "Yarn Engineering"
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 22,
+  "fields": {
+    "path": "0001000600010001",
+    "depth": 4,
+    "numchild": 1,
+    "name": "YE"
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 28,
+  "fields": {
+    "path": "00010006000100010001",
+    "depth": 5,
+    "numchild": 0,
+    "name": "YE SY2022-2023"
+  }
+},
+{
+  "model": "wagtailcore.workflowpage",
+  "pk": 1,
+  "fields": {
+    "workflow": 1
+  }
+},
+{
+  "model": "wagtailcore.workflowtask",
+  "pk": 1,
+  "fields": {
+    "sort_order": 0,
+    "workflow": 1,
+    "task": 1
+  }
+},
+{
+  "model": "wagtailcore.task",
+  "pk": 1,
+  "fields": {
+    "name": "Moderators approval",
+    "content_type": [
+      "wagtailcore",
+      "groupapprovaltask"
+    ],
+    "active": true
+  }
+},
+{
+  "model": "wagtailcore.workflow",
+  "pk": 1,
+  "fields": {
+    "name": "Moderators approval",
+    "active": true
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Institute Head",
+    "permissions": [
+      [
+        "add_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "change_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "view_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "add_department",
+        "departments",
+        "department"
+      ],
+      [
+        "change_department",
+        "departments",
+        "department"
+      ],
+      [
+        "view_department",
+        "departments",
+        "department"
+      ],
+      [
+        "add_degree",
+        "institutes",
+        "degree"
+      ],
+      [
+        "change_degree",
+        "institutes",
+        "degree"
+      ],
+      [
+        "view_degree",
+        "institutes",
+        "degree"
+      ],
+      [
+        "change_institute",
+        "institutes",
+        "institute"
+      ],
+      [
+        "view_institute",
+        "institutes",
+        "institute"
+      ],
+      [
+        "change_studentprofile",
+        "students",
+        "studentprofile"
+      ],
+      [
+        "add_customuser",
+        "users",
+        "customuser"
+      ],
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ],
+      [
+        "add_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "change_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "delete_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "add_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "change_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "delete_image",
+        "wagtailimages",
+        "image"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Super User",
+    "permissions": [
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ],
+      [
+        "add_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "change_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "delete_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "add_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "change_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "delete_image",
+        "wagtailimages",
+        "image"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Department Head",
+    "permissions": [
+      [
+        "add_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "change_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "view_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "add_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "change_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "view_batch",
+        "departments",
+        "batch"
+      ],
+      [
+        "add_department",
+        "departments",
+        "department"
+      ],
+      [
+        "change_department",
+        "departments",
+        "department"
+      ],
+      [
+        "view_department",
+        "departments",
+        "department"
+      ],
+      [
+        "change_studentprofile",
+        "students",
+        "studentprofile"
+      ],
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Faculty Member",
+    "permissions": [
+      [
+        "add_batchyear",
+        "departments",
+        "batchyear"
+      ],
+      [
+        "change_batchyear",
+        "departments",
+        "batchyear"
+      ],
+      [
+        "view_batchyear",
+        "departments",
+        "batchyear"
+      ],
+      [
+        "add_studentprofile",
+        "students",
+        "studentprofile"
+      ],
+      [
+        "change_studentprofile",
+        "students",
+        "studentprofile"
+      ],
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Controller of Exam",
+    "permissions": [
+      [
+        "add_batchuploadresult",
+        "custom_dashboard",
+        "batchuploadresult"
+      ],
+      [
+        "change_batchuploadresult",
+        "custom_dashboard",
+        "batchuploadresult"
+      ],
+      [
+        "view_batchuploadresult",
+        "custom_dashboard",
+        "batchuploadresult"
+      ],
+      [
+        "add_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "change_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "view_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Proof Reader of Exam",
+    "permissions": [
+      [
+        "change_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "view_studentrecords",
+        "custom_dashboard",
+        "studentrecords"
+      ],
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Student",
+    "permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cqjgbzvs7h248iuahg7ffq6c1qxa21r6",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8ZChduvcbCANTixpoSptojP-uTbrQ7T3nnhfzYV1GvzaafU6sZ5IdfjcM8UZlA-kayqXyWMsyZ-Sbwnfa-Lkmup929y8whjZ-30aCjpaksA5NQrSoRAQgF0lZiQac1vo42BSiAgGKhBg604F22Cka3BZt1FquxdNjyvOT9eL9AW19Pow:1oSkb7:ZtrHhDHeRoJU_YRmhagDO-uhSBTlnfUD_2xyNsr4TrA",
+    "expire_date": "2022-09-13T01:09:01.397"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "g8nyqwhgbi29ema5xe1qqblck23d03so",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pApaClduvcMZGAGixowpU00xrsrSRea_NV_L-8lHK7L5NbKs0skRnEQu9_PY7hyboAumM9FhpKXOXnZFLnRKk-F-Hbc3L_AhHVq2U73aIaBIyiyPUULntga0NAhqKgDoFcDaqMxfOeVRiDaW7ImGg8tWrnWVLLjxz3NTzHC-wOOJj9c:1oSkaB:2tpNG56zRorkTR_s5vG4ZZMm1mokPGmXT9Z_fDi_wh0",
+    "expire_date": "2022-09-13T01:08:03.589"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "q1djsan68yvaniwcn8rxhy51ibpt1qa8",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8ZChduvcbCANTixpoSptojP-uTbrQ7T3nnhfzYV1GvzaafU6sZ5IdfjcM8UZlA-kayqXyWMsyZ-Sbwnfa-Lkmup929y8whjZ-30aCjpaksA5NQrSoRAQgF0lZiQac1vo42BSiAgGKhBg604F22Cka3BZt1FquxdNjyvOT9eL9AW19Pow:1oSoNm:QuBk2Qz7XljXM5V7CN-ifZgd__qcCBnbHKUx8no7VmM",
+    "expire_date": "2022-09-13T05:11:30.055"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tzq40e1fiyrz1kxmy8iz5u7ufdbfejhl",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8KtAu3fsNZMoMFjXQlDbRGP9dSbrQ7T3nnhfzsK2T3yotPiEbmGSH322EcKPcAF4hXwoPJa9LGnlT-E4rPxek-2l3_wIT1Km98ev2JGJvLWrT9U6EUUgZVUSlnBaGjOt0QAtoCKICiwGd1CCOwUpo0Uq1ppI9Pea0PNkg3h-yTT_F:1oTGmS:W0lIyIdo46Nw0dsUsoJ9uFAfl0VYf1YNe8dIUsiS8Z8",
+    "expire_date": "2022-09-14T11:30:52.891"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v8dvagfhxxz7cvm98n1ftss6v0rnnl2q",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8ZChduvcbCANTixpoSptojP-uTbrQ7T3nnhfzYV1GvzaafU6sZ5IdfjcM8UZlA-kayqXyWMsyZ-Sbwnfa-Lkmup929y8whjZ-30aCjpaksA5NQrSoRAQgF0lZiQac1vo42BSiAgGKhBg604F22Cka3BZt1FquxdNjyvOT9eL9AW19Pow:1oSkdm:UodmizAugXjXP_v1-0Rda_PIXRgOu5GeUXNxwHRvJHg",
+    "expire_date": "2022-09-13T01:11:46.824"
+  }
+},
+{
+  "model": "wagtailcore.groupapprovaltask",
+  "pk": 1,
+  "fields": {
+    "task_ptr": 1,
+    "groups": [
+      [
+        "Institute Head"
+      ]
+    ]
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 1,
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "page": 1,
+    "permission_type": "add"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 2,
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "page": 1,
+    "permission_type": "edit"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 3,
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "page": 1,
+    "permission_type": "publish"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 4,
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "page": 1,
+    "permission_type": "add"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 5,
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "page": 1,
+    "permission_type": "edit"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 6,
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "page": 1,
+    "permission_type": "lock"
+  }
+},
+{
+  "model": "wagtailcore.grouppagepermission",
+  "pk": 7,
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "page": 1,
+    "permission_type": "unlock"
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "collection": 1,
+    "permission": [
+      "add_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "collection": 1,
+    "permission": [
+      "add_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "collection": 1,
+    "permission": [
+      "change_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "collection": 1,
+    "permission": [
+      "change_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "collection": 1,
+    "permission": [
+      "add_image",
+      "wagtailimages",
+      "image"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "collection": 1,
+    "permission": [
+      "add_image",
+      "wagtailimages",
+      "image"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Institute Head"
+    ],
+    "collection": 1,
+    "permission": [
+      "change_image",
+      "wagtailimages",
+      "image"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Super User"
+    ],
+    "collection": 1,
+    "permission": [
+      "change_image",
+      "wagtailimages",
+      "image"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Proof Reader of Exam"
+    ],
+    "collection": 1,
+    "permission": [
+      "change_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.groupcollectionpermission",
+  "fields": {
+    "group": [
+      "Controller of Exam"
+    ],
+    "collection": 1,
+    "permission": [
+      "add_document",
+      "wagtaildocs",
+      "document"
+    ]
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$390000$jxfubqMVIfNBw6xFxtZd6K$ObgH+BoMIgMFuepIfsswNSH9H1HAV7mzh8HfhyroyiU=",
+    "last_login": "2022-08-31T11:30:52.882",
+    "is_superuser": true,
+    "username": "papa",
+    "first_name": "",
+    "last_name": "",
+    "email": "papa@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:17:11.479",
+    "institute": null,
+    "department": null,
+    "suffix": null,
+    "role": null,
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$320000$sjKRVaszy601F360cAQKRY$CzfWWd5AehzoW059Rae9sG75mdAavtchSfM4qqP+ww8=",
+    "last_login": "2022-08-28T15:01:43.612",
+    "is_superuser": false,
+    "username": "111201001",
+    "first_name": "CHRISTOPHER",
+    "last_name": "MADRILEJO",
+    "email": "papatupher@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:51:22.518",
+    "institute": 11,
+    "department": 12,
+    "suffix": "001",
+    "role": [
+      "Institute Head"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [
+      [
+        "Institute Head"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$320000$zdUKsJfbsuJZFLvDlsFL4E$GCzLntZPrmpw7h23Ly0NRbGRdQjFnIO8wXaDfYIOnqI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "111203002",
+    "first_name": "CHRISTOPHER",
+    "last_name": "MADRILEJO",
+    "email": "papatupher2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:52:08.558",
+    "institute": 11,
+    "department": 12,
+    "suffix": "002",
+    "role": [
+      "Department Head"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [
+      [
+        "Department Head"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$390000$f2Oawk3K6PXJ6W8e2jWIDV$wxLWUPpTWuYPK1GqTNzRq1nm/Xu9btn97HIKj7TjWJY=",
+    "last_login": "2022-08-31T08:17:23.364",
+    "is_superuser": false,
+    "username": "111204003",
+    "first_name": "CHRISTOPHER",
+    "last_name": "MADRILEJO",
+    "email": "papatupher3@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:53:00.313",
+    "institute": 11,
+    "department": 12,
+    "suffix": "003",
+    "role": [
+      "Faculty Member"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [
+      [
+        "Faculty Member"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$320000$pLuwKJYO2eEtKYAFOMvDsk$WPGh2R+LXWYuwsgeUJkOtQnJLbE8Qt4B2svxjhiTDKI=",
+    "last_login": "2022-08-30T01:08:03.566",
+    "is_superuser": false,
+    "username": "111205004",
+    "first_name": "CHRISTOPHER",
+    "last_name": "MADRILEJO",
+    "email": "papatupher5@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:54:04.685",
+    "institute": 11,
+    "department": 12,
+    "suffix": "004",
+    "role": [
+      "Controller of Exam"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [
+      [
+        "Controller of Exam"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$390000$QFfSHu0W5TxZhvnNq0xGAz$ijXA+rAwa0EQZ+ouwu9d442IQKkGvEy/TdpjnA4uApA=",
+    "last_login": "2022-08-31T10:37:02.370",
+    "is_superuser": false,
+    "username": "111206007",
+    "first_name": "CHRISTOPHER",
+    "last_name": "MADRILEJO",
+    "email": "papatupher6@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-28T14:56:02.894",
+    "institute": 11,
+    "department": 12,
+    "suffix": "007",
+    "role": [
+      "Proof Reader of Exam"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": null,
+      "student_records": {}
+    },
+    "batch": null,
+    "degree": null,
+    "groups": [
+      [
+        "Proof Reader of Exam"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$390000$sB43KUWmI1Uyrd5BaA2qyA$VhWDxRi7e+E9wQRX2U4a3Mbb5rUOeYO4C7Y4vf4TYzs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "2016-1-1-001",
+    "first_name": "CAEL",
+    "last_name": "MADRILEJO",
+    "email": "papatupher@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-31T09:03:49.778",
+    "institute": 11,
+    "department": 12,
+    "suffix": null,
+    "role": [
+      "Student"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": null,
+      "formated_id": "TT-7-1-12-None",
+      "student_records": {}
+    },
+    "batch": 7,
+    "degree": 1,
+    "groups": [
+      [
+        "Student"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$390000$LG1gYt7TPGk678cARLA8kC$cWhFNhSt6VbQrCYsFYSPSOLwyqHiMbU1YdGJD4If4CE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "2016-1-1-002",
+    "first_name": "CHEYANNE",
+    "last_name": "MADRILEJO",
+    "email": "papatupher22@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-08-31T09:09:12.559",
+    "institute": 11,
+    "department": 12,
+    "suffix": null,
+    "role": [
+      "Student"
+    ],
+    "metadata": {
+      "batch": {},
+      "prev_role": "Student",
+      "formated_id": "TT-7-1-12-None",
+      "student_records": {}
+    },
+    "batch": 7,
+    "degree": 1,
+    "groups": [
+      [
+        "Student"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.customgroup",
+  "pk": 1,
+  "fields": {
+    "role": [
+      "Institute Head"
+    ],
+    "roles": [
+      [
+        "Department Head"
+      ],
+      [
+        "Faculty Member"
+      ],
+      [
+        "Controller of Exam"
+      ],
+      [
+        "Proof Reader of Exam"
+      ]
+    ]
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 57,
+  "fields": {
+    "collection": 28,
+    "title": "Level-1-Term-I-Exam-2016_evpMwEV",
+    "file": "documents/Level-1-Term-I-Exam-2016_evpMwEV.xlsx",
+    "created_at": "2022-08-31T07:34:09.543",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 98982,
+    "file_hash": "27e756f86fc794c38ca189dbc462c8dd206667a3",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "27e756f86fc794c38ca189dbc462c8dd206667a3"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 58,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel.xlsx",
+    "created_at": "2022-08-31T07:46:00.576",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 59,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_tK64J9D.xlsx",
+    "created_at": "2022-08-31T07:50:12.814",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 60,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel.xlsx",
+    "created_at": "2022-08-31T07:59:31.934",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 61,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_t5J7WYt.xlsx",
+    "created_at": "2022-08-31T08:03:12.539",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 62,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_emldpI3.xlsx",
+    "created_at": "2022-08-31T08:08:04.175",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 63,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_fDtUyE1.xlsx",
+    "created_at": "2022-08-31T08:12:25.636",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 64,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_klieqcC.xlsx",
+    "created_at": "2022-08-31T09:26:02.084",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 65,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_BRckwIE.xlsx",
+    "created_at": "2022-08-31T09:31:40.054",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 66,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_RWnz88w.xlsx",
+    "created_at": "2022-08-31T09:36:44.732",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 67,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_XIRGDSY.xlsx",
+    "created_at": "2022-08-31T09:38:41.453",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 68,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_K4wdrsc.xlsx",
+    "created_at": "2022-08-31T09:41:43.996",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 69,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_hPMucqd.xlsx",
+    "created_at": "2022-08-31T09:47:41.982",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 70,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel",
+    "file": "documents/test_excel_VBrXmxO.xlsx",
+    "created_at": "2022-08-31T10:02:34.487",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 261048,
+    "file_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "7fbc35d73afa146e9b48000c939760eb4974a5ab"
+  }
+},
+{
+  "model": "institutes.customdocument",
+  "pk": 71,
+  "fields": {
+    "collection": 28,
+    "title": "test_excel (1)",
+    "file": "documents/test_excel_1.xlsx",
+    "created_at": "2022-08-31T10:14:28.424",
+    "uploaded_by_user": [
+      "111205004"
+    ],
+    "file_size": 256928,
+    "file_hash": "f250b550eae79cf885c65917a049f790f4c0137e",
+    "institute": 11,
+    "department": 12,
+    "batch": 7,
+    "data": {},
+    "prev_hash": "f250b550eae79cf885c65917a049f790f4c0137e"
+  }
+},
+{
+  "model": "departments.batch",
+  "pk": 2,
+  "fields": {
+    "sort_order": null,
+    "department": 12,
+    "assigned_faculty_member": [
+      "111204003"
+    ],
+    "degree": 1,
+    "name": "YE",
+    "custom_id": null,
+    "suffix": "02",
+    "created_at": "2022-08-28T22:55:36.191",
+    "active": true,
+    "collection_key": "YE"
+  }
+},
+{
+  "model": "departments.batchyear",
+  "pk": 7,
+  "fields": {
+    "sort_order": null,
+    "batch": 2,
+    "assigned_faculty_member": [
+      "111204003"
+    ],
+    "year_from": 2022,
+    "year_to": 2023,
+    "collection": 28,
+    "students": [
+      [
+        "2016-1-1-002"
+      ]
+    ]
+  }
+},
+{
+  "model": "custom_dashboard.studentrecords",
+  "pk": 67,
+  "fields": {
+    "sort_order": null,
+    "institute": 11,
+    "created_at": "2022-08-31T10:02:38.196",
+    "assigned_controller": [
+      "111205004"
+    ],
+    "assigned_pr": [
+      "111206007"
+    ],
+    "link_document": 70,
+    "batch_year": 7,
+    "updated_by": [
+      "111205004"
+    ],
+    "active": true,
+    "name": "test_excel",
+    "comment": null,
+    "approve_at": null,
+    "status": "invalid",
+    "data": {
+      "is_lock": true,
+      "comments": "",
+      "document": {},
+      "is_publish": false,
+      "prev_status": "processing"
+    },
+    "timestamp": "2022-08-31T10:02:38.469",
+    "publish": false
+  }
+},
+{
+  "model": "custom_dashboard.studentrecords",
+  "pk": 68,
+  "fields": {
+    "sort_order": null,
+    "institute": 11,
+    "created_at": "2022-08-31T10:14:32.717",
+    "assigned_controller": [
+      "111205004"
+    ],
+    "assigned_pr": [
+      "111206007"
+    ],
+    "link_document": 71,
+    "batch_year": 7,
+    "updated_by": [
+      "111206007"
+    ],
+    "active": true,
+    "name": "test_excel (1)",
+    "comment": "",
+    "approve_at": "2022-08-31T10:41:26.615",
+    "status": "approve",
+    "data": {
+      "is_lock": true,
+      "comments": "CHRISTOPHER MADRILEJO - Aug. 31, 2022, 10:41 a.m. <br> <p data-block-key=\"g331u\">GOOD!!!!</p><br><br>",
+      "document": {},
+      "is_publish": true,
+      "prev_status": "approve"
+    },
+    "timestamp": "2022-08-31T11:03:35.297",
+    "publish": true
+  }
+},
+{
+  "model": "custom_dashboard.batchuploadresult",
+  "pk": 1,
+  "fields": {
+    "sort_order": null,
+    "batch_file": 68,
+    "certificates": "Certificate",
+    "data": {},
+    "students": []
+  }
+},
+{
+  "model": "students.studentrecord",
+  "pk": 7,
+  "fields": {
+    "sort_order": null,
+    "student": [
+      "2016-1-1-001"
+    ],
+    "record": 67,
+    "result": null,
+    "publish": false,
+    "data": {
+      "CGPA": 3.957317073,
+      "Result": "Promoted",
+      "Remarks": "",
+      "Sl. No.": 1,
+      "Subjects": {
+        "Physics-II": {
+          "code": " PHY 103",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 94,
+          "Term Final (72%)": 32,
+          "Continuous Assess. (28%)": 26
+        },
+        "Chemistry-II": {
+          "code": " CHEM 103",
+          "credits": "3",
+          "Grade Point": "3.75",
+          "Letter Grade": "A",
+          "Total (100%)": 77,
+          "Term Final (72%)": 30.5,
+          "Continuous Assess. (28%)": 25
+        },
+        "Mathematics-II": {
+          "code": " MS 103",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 93,
+          "Term Final (72%)": 32.5,
+          "Continuous Assess. (28%)": 24.5
+        },
+        "Computer Programming": {
+          "code": " MDM 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 91,
+          "Term Final (72%)": 33,
+          "Continuous Assess. (28%)": 23.5
+        },
+        "Engineering Materials": {
+          "code": " IPE 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 90,
+          "Term Final (72%)": 33,
+          "Continuous Assess. (28%)": 26
+        },
+        "Polymer Science & Engineering ": {
+          "code": " WPE 101",
+          "credits": "3",
+          "Grade Point": "3.75",
+          "Letter Grade": "A",
+          "Total (100%)": 77,
+          "Term Final (72%)": 23.5,
+          "Continuous Assess. (28%)": 24
+        }
+      },
+      "Term GPA": 3.931818182,
+      "Physics-II": "4.00",
+      "Chemistry-II": "4.00",
+      "Student's ID": "2016-1-1-001",
+      "Student's Name": "ABCDEFGH",
+      "Fail  Subject(s)": "",
+      "Computer Programming": "4.00",
+      "Machine Shop Practice ": "4.00",
+      "∑Ci×Gi  of the Term": 86.5,
+      "∑Ci×Gi  upto this Term": 162.25,
+      "Total Credits Taken in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Taken upto this Term\n[L-1 T-II, E-2016]": 41,
+      "∑Ci×Gi  upto Immediate Past Term\n[L-1 T-I, E-2016]": 75.75,
+      "Total Credits Completed in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Completed upto this Term\n[L-1 T-II, E-2016]": 41,
+      "Total Credits Completed upto \nImmediate Past Term [L-1 T-I, E-2016]": 19
+    },
+    "created_at": "2022-08-31T10:02:41.547",
+    "updated_at": "2022-08-31T10:02:41.547"
+  }
+},
+{
+  "model": "students.studentrecord",
+  "pk": 8,
+  "fields": {
+    "sort_order": null,
+    "student": [
+      "2016-1-1-002"
+    ],
+    "record": 67,
+    "result": null,
+    "publish": false,
+    "data": {
+      "CGPA": 3.432926829,
+      "Result": "Promoted",
+      "Remarks": "",
+      "Sl. No.": 2,
+      "Subjects": {
+        "Physics-II": {
+          "code": " PHY 103",
+          "credits": "3",
+          "Grade Point": "3.50",
+          "Letter Grade": "A-",
+          "Total (100%)": 72,
+          "Term Final (72%)": 29,
+          "Continuous Assess. (28%)": 20.5
+        },
+        "Chemistry-II": {
+          "code": " CHEM 103",
+          "credits": "3",
+          "Grade Point": "3.50",
+          "Letter Grade": "A-",
+          "Total (100%)": 70,
+          "Term Final (72%)": 28,
+          "Continuous Assess. (28%)": 22.5
+        },
+        "Mathematics-II": {
+          "code": " MS 103",
+          "credits": "3",
+          "Grade Point": "3.25",
+          "Letter Grade": "B+",
+          "Total (100%)": 67,
+          "Term Final (72%)": 8.5,
+          "Continuous Assess. (28%)": 23
+        },
+        "Computer Programming": {
+          "code": " MDM 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 80,
+          "Term Final (72%)": 26,
+          "Continuous Assess. (28%)": 24
+        },
+        "Engineering Materials": {
+          "code": " IPE 101",
+          "credits": "3",
+          "Grade Point": "2.75",
+          "Letter Grade": "B-",
+          "Total (100%)": 56,
+          "Term Final (72%)": 11,
+          "Continuous Assess. (28%)": 20.5
+        },
+        "Polymer Science & Engineering ": {
+          "code": " WPE 101",
+          "credits": "3",
+          "Grade Point": "3.25",
+          "Letter Grade": "B+",
+          "Total (100%)": 66,
+          "Term Final (72%)": 22,
+          "Continuous Assess. (28%)": 21.5
+        }
+      },
+      "Term GPA": 3.443181818,
+      "Physics-II": "3.75",
+      "Chemistry-II": "3.50",
+      "Student's ID": "2016-1-1-002",
+      "Student's Name": "ABCDEFGH",
+      "Fail  Subject(s)": "",
+      "Computer Programming": "4.00",
+      "Machine Shop Practice ": "3.75",
+      "∑Ci×Gi  of the Term": 75.75,
+      "∑Ci×Gi  upto this Term": 140.75,
+      "Total Credits Taken in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Taken upto this Term\n[L-1 T-II, E-2016]": 41,
+      "∑Ci×Gi  upto Immediate Past Term\n[L-1 T-I, E-2016]": 65,
+      "Total Credits Completed in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Completed upto this Term\n[L-1 T-II, E-2016]": 41,
+      "Total Credits Completed upto \nImmediate Past Term [L-1 T-I, E-2016]": 19
+    },
+    "created_at": "2022-08-31T10:02:41.590",
+    "updated_at": "2022-08-31T10:02:41.590"
+  }
+},
+{
+  "model": "students.studentrecord",
+  "pk": 9,
+  "fields": {
+    "sort_order": null,
+    "student": [
+      "2016-1-1-001"
+    ],
+    "record": 68,
+    "result": 1,
+    "publish": true,
+    "data": {
+      "CGPA": 3.957317073,
+      "Result": "Promoted",
+      "Remarks": "",
+      "Sl. No.": 1,
+      "Subjects": {
+        "Physics-II": {
+          "code": " PHY 103",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 94,
+          "Term Final (72%)": 32,
+          "Continuous Assess. (28%)": 26
+        },
+        "Chemistry-II": {
+          "code": " CHEM 103",
+          "credits": "3",
+          "Grade Point": "3.75",
+          "Letter Grade": "A",
+          "Total (100%)": 77,
+          "Term Final (72%)": 30.5,
+          "Continuous Assess. (28%)": 25
+        },
+        "Mathematics-II": {
+          "code": " MS 103",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 93,
+          "Term Final (72%)": 32.5,
+          "Continuous Assess. (28%)": 24.5
+        },
+        "Computer Programming": {
+          "code": " MDM 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 91,
+          "Term Final (72%)": 33,
+          "Continuous Assess. (28%)": 23.5
+        },
+        "Engineering Materials": {
+          "code": " IPE 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 90,
+          "Term Final (72%)": 33,
+          "Continuous Assess. (28%)": 26
+        },
+        "Polymer Science & Engineering ": {
+          "code": " WPE 101",
+          "credits": "3",
+          "Grade Point": "3.75",
+          "Letter Grade": "A",
+          "Total (100%)": 77,
+          "Term Final (72%)": 23.5,
+          "Continuous Assess. (28%)": 24
+        }
+      },
+      "Term GPA": 3.931818182,
+      "Physics-II": "4.00",
+      "Chemistry-II": "4.00",
+      "Student's ID": "2016-1-1-001",
+      "Student's Name": "ABCDEFGH",
+      "Fail  Subject(s)": "",
+      "Computer Programming": "4.00",
+      "Machine Shop Practice ": "4.00",
+      "∑Ci×Gi  of the Term": 86.5,
+      "∑Ci×Gi  upto this Term": 162.25,
+      "Total Credits Taken in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Taken upto this Term\n[L-1 T-II, E-2016]": 41,
+      "∑Ci×Gi  upto Immediate Past Term\n[L-1 T-I, E-2016]": 75.75,
+      "Total Credits Completed in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Completed upto this Term\n[L-1 T-II, E-2016]": 41,
+      "Total Credits Completed upto \nImmediate Past Term [L-1 T-I, E-2016]": 19
+    },
+    "created_at": "2022-08-31T10:14:36.843",
+    "updated_at": "2022-08-31T10:14:36.843"
+  }
+},
+{
+  "model": "students.studentrecord",
+  "pk": 10,
+  "fields": {
+    "sort_order": null,
+    "student": [
+      "2016-1-1-002"
+    ],
+    "record": 68,
+    "result": 1,
+    "publish": true,
+    "data": {
+      "CGPA": 3.432926829,
+      "Result": "Promoted",
+      "Remarks": "",
+      "Sl. No.": 2,
+      "Subjects": {
+        "Physics-II": {
+          "code": " PHY 103",
+          "credits": "3",
+          "Grade Point": "3.50",
+          "Letter Grade": "A-",
+          "Total (100%)": 72,
+          "Term Final (72%)": 29,
+          "Continuous Assess. (28%)": 20.5
+        },
+        "Chemistry-II": {
+          "code": " CHEM 103",
+          "credits": "3",
+          "Grade Point": "3.50",
+          "Letter Grade": "A-",
+          "Total (100%)": 70,
+          "Term Final (72%)": 28,
+          "Continuous Assess. (28%)": 22.5
+        },
+        "Mathematics-II": {
+          "code": " MS 103",
+          "credits": "3",
+          "Grade Point": "3.25",
+          "Letter Grade": "B+",
+          "Total (100%)": 67,
+          "Term Final (72%)": 8.5,
+          "Continuous Assess. (28%)": 23
+        },
+        "Computer Programming": {
+          "code": " MDM 101",
+          "credits": "3",
+          "Grade Point": "4.00",
+          "Letter Grade": "A+",
+          "Total (100%)": 80,
+          "Term Final (72%)": 26,
+          "Continuous Assess. (28%)": 24
+        },
+        "Engineering Materials": {
+          "code": " IPE 101",
+          "credits": "3",
+          "Grade Point": "2.75",
+          "Letter Grade": "B-",
+          "Total (100%)": 56,
+          "Term Final (72%)": 11,
+          "Continuous Assess. (28%)": 20.5
+        },
+        "Polymer Science & Engineering ": {
+          "code": " WPE 101",
+          "credits": "3",
+          "Grade Point": "3.25",
+          "Letter Grade": "B+",
+          "Total (100%)": 66,
+          "Term Final (72%)": 22,
+          "Continuous Assess. (28%)": 21.5
+        }
+      },
+      "Term GPA": 3.443181818,
+      "Physics-II": "3.75",
+      "Chemistry-II": "3.50",
+      "Student's ID": "2016-1-1-002",
+      "Student's Name": "ABCDEFGH",
+      "Fail  Subject(s)": "",
+      "Computer Programming": "4.00",
+      "Machine Shop Practice ": "3.75",
+      "∑Ci×Gi  of the Term": 75.75,
+      "∑Ci×Gi  upto this Term": 140.75,
+      "Total Credits Taken in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Taken upto this Term\n[L-1 T-II, E-2016]": 41,
+      "∑Ci×Gi  upto Immediate Past Term\n[L-1 T-I, E-2016]": 65,
+      "Total Credits Completed in this Term\n[L-1 T-II, E-2016]": 22,
+      "Total Credits Completed upto this Term\n[L-1 T-II, E-2016]": 41,
+      "Total Credits Completed upto \nImmediate Past Term [L-1 T-I, E-2016]": 19
+    },
+    "created_at": "2022-08-31T10:14:36.888",
+    "updated_at": "2022-08-31T10:14:36.888"
+  }
+},
+{
+  "model": "students.studenthomepageroute",
+  "pk": 4,
+  "fields": {
+    "page_ptr": 4
+  }
+},
+{
+  "model": "students.studenthomepage",
+  "pk": 5,
+  "fields": {
+    "page_ptr": 5,
+    "institute": 1,
+    "welcome_title": "<p data-block-key=\"ucbld\">welcome title </p>",
+    "announcement": "<p data-block-key=\"30549\">test announcement</p>",
+    "logo": null
+  }
+},
+{
+  "model": "wagtailusers.userprofile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "111201001"
+    ],
+    "submitted_notifications": true,
+    "approved_notifications": true,
+    "rejected_notifications": true,
+    "updated_comments_notifications": true,
+    "preferred_language": "",
+    "current_time_zone": "",
+    "avatar": ""
+  }
+},
+{
+  "model": "wagtailusers.userprofile",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "papa"
+    ],
+    "submitted_notifications": true,
+    "approved_notifications": true,
+    "rejected_notifications": true,
+    "updated_comments_notifications": true,
+    "preferred_language": "",
+    "current_time_zone": "",
+    "avatar": ""
+  }
+},
+{
+  "model": "wagtaildocs.uploadeddocument",
+  "pk": 1,
+  "fields": {
+    "file": "uploaded_documents/Screenshot_from_2022-08-28_21-00-19.png",
+    "uploaded_by_user": [
+      "papa"
+    ]
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Super User",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:21:54.916",
+    "uuid": "e5106241-41c5-4e12-a6cf-fc1121a8f2c8",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 2,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Institute Head",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:22:09.633",
+    "uuid": "0476f050-6d1b-4cab-8631-a5a70313ab7d",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 3,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Department Head",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:22:31.894",
+    "uuid": "f8cc96bb-997b-46fd-ba55-5b4c28c7bfaa",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 4,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Faculty Member",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:23:00.748",
+    "uuid": "94cc21a9-ef98-4ebc-97d4-4d40c3ac5169",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 5,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:25:09.232",
+    "uuid": "9f3b5845-846e-4284-9399-d1daaff4300a",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 6,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Proof Reader of Exam",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:25:32.388",
+    "uuid": "b43baf78-efa2-428a-9928-9654c5c3a7b4",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 7,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Student",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:27:17.202",
+    "uuid": "eb88c304-a7e4-43f1-b3d0-34098a4c89b4",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "7"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 8,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Institute Head",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:29:53.904",
+    "uuid": "d3bc8f11-ca6a-4df7-909e-87194c2f4700",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 9,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Department Head",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:31:18.329",
+    "uuid": "67310946-26ba-4695-ac13-32c325a2f0eb",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 10,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Faculty Member",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:33:05.281",
+    "uuid": "8b127b40-4ca3-4fe0-9d47-4933fb2e8c71",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 11,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:39:28.142",
+    "uuid": "4de78a17-2e2c-418f-ab4a-8bbd692bd2b9",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 12,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Proof Reader of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:40:09.477",
+    "uuid": "d439b918-e750-475e-b479-6f2a451c8e65",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 13,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "institute 1",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:40:55.398",
+    "uuid": "288583a3-699b-48d5-bb5d-2ddf4be87333",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 14,
+  "fields": {
+    "content_type": [
+      "wagtailcore",
+      "site"
+    ],
+    "label": "test [default]",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T14:45:21.708",
+    "uuid": "3d634a61-f028-4988-8c90-e11b3b74c545",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 15,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:51:23.259",
+    "uuid": "6b09d2f9-3555-43d9-8ad3-79e72435704f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 16,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:52:09.235",
+    "uuid": "c2852c0c-d3ad-49c5-b238-b4c32368fc51",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 17,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:53:01.113",
+    "uuid": "15ba1c57-ff31-4f27-b4c6-27657e86c920",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 18,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:54:05.297",
+    "uuid": "33ea76f7-5a4e-4c7e-b134-b135cbf954e9",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 19,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:56:03.543",
+    "uuid": "23ff43b9-747a-49bf-8e4a-a90a2bcad84c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 20,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Institute Head",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:01:23.125",
+    "uuid": "40894009-5411-42e1-bc3f-af8357c2226b",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 21,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "Textile Engineering College Chittagong",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:03:39.180",
+    "uuid": "3a196937-8237-49f8-a5bb-2bd3eef87d91",
+    "user": [
+      "111201001"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 22,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "degree"
+    ],
+    "label": "M.sc",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:04:13.098",
+    "uuid": "3c19adf7-689a-4e80-8827-43623595c843",
+    "user": [
+      "111201001"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 23,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:04:57.175",
+    "uuid": "e9de287c-68bd-48a9-86a8-1caaded3b7e8",
+    "user": [
+      "111201001"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 24,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-01 2022 - M.sc",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T15:05:33.446",
+    "uuid": "b983bb51-0f90-4366-9d66-2b52dc8dda1c",
+    "user": [
+      "111201001"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 25,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Institute Head",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:09:27.995",
+    "uuid": "564d779b-1dc9-4f5e-a9eb-28b5ebc20f6d",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 26,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Faculty Member",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T15:10:04.183",
+    "uuid": "168db2e1-0d91-4f2c-88ca-9dd04343189c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 27,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T15:10:51.513",
+    "uuid": "f9d74d2e-aa7a-4176-87f2-ba529b08393f",
+    "user": [
+      "111204003"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "7"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 28,
+  "fields": {
+    "content_type": [
+      "wagtailcore",
+      "collection"
+    ],
+    "label": "m,.m,.",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T20:00:54.870",
+    "uuid": "9d6ce80e-31db-4151-a9bc-209c25b99ff9",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 29,
+  "fields": {
+    "content_type": [
+      "wagtailcore",
+      "collection"
+    ],
+    "label": "2nd collection",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T20:58:53.886",
+    "uuid": "cd758638-7f36-42e5-a4da-ca667f74bd5c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 30,
+  "fields": {
+    "content_type": [
+      "wagtailcore",
+      "collection"
+    ],
+    "label": "2nd collection child",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T21:00:39.122",
+    "uuid": "32c837df-369c-4d9c-802d-4750fca54249",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 31,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "test5",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T21:34:26.548",
+    "uuid": "7211b33b-cc9b-4533-a28d-f9a575c9b882",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 32,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "test5 hahahahaha",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T21:38:31.766",
+    "uuid": "1665121d-cf63-4f55-8836-7f8e2e29ae73",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 33,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "gumana ka tangacccccccxxxx",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:26:55.294",
+    "uuid": "68fba1ef-e0be-4467-8bee-36282b1d0815",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 34,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "gumana ka tangaccccccc",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:26:58.145",
+    "uuid": "89d2a937-254c-4b97-a331-760e008e4c2c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "7"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 35,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "gumana ka tanga",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:27:00.722",
+    "uuid": "3f11a722-024e-4da4-9147-c27a049404cf",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 36,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "ungas to",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:27:03.220",
+    "uuid": "a7534419-4dff-41f0-a06d-e234f2408e3f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 37,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "test5 hahahahaha",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:27:05.598",
+    "uuid": "5263740c-0ab1-4314-9055-25512c102c96",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 38,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "gagu",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:27:12.629",
+    "uuid": "8dfdc21f-1fd0-44e8-bd3b-392812e512fe",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 39,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "anak ni gagu",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:30:44.481",
+    "uuid": "dd2ab142-a53e-4461-a034-6ef75de03970",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 40,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "anak ni gagu rename",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T22:32:31.215",
+    "uuid": "1b645601-873e-4676-9f4e-99f4cd836878",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 41,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "Textile Engineering College Ba",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:44:51.831",
+    "uuid": "01b5e45f-f4d0-4cb0-917e-48444a3d9cf2",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "10"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 42,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Fabric Engineering",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:46:16.958",
+    "uuid": "a9b0e18c-ecb1-4f7a-82dd-46a590299576",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 43,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:46:56.751",
+    "uuid": "35ba3cdb-db76-4f7e-bf2a-5b6533464f40",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "10"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 44,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:47:25.428",
+    "uuid": "0e6583a6-1571-4f87-a0fb-90e3dd1fadf2",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "10"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 45,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "Textile Engineering College Ba",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:47:37.175",
+    "uuid": "bccd77c0-4a6d-4123-b1f2-18908e323e7d",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "10"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 46,
+  "fields": {
+    "content_type": [
+      "institutes",
+      "institute"
+    ],
+    "label": "Textile Engineering College Ba",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:47:43.187",
+    "uuid": "ef36621c-39fe-44ca-8074-54a92e6faafb",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "11"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 47,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:48:45.101",
+    "uuid": "1bc16a65-fa78-4ea8-8c53-43dc2ecc30c0",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "11"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 48,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:52:08.811",
+    "uuid": "9fdf3fbf-056d-454c-97de-b6fafd54f8bc",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 49,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:52:15.942",
+    "uuid": "63bfa408-3e9d-4a56-84c5-c9008f71ffdc",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "12"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 50,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-28T22:54:48.470",
+    "uuid": "1e8a38ae-175b-4cf7-97a6-8b03e28f44db",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "11"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 51,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-01 - M.sc",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T22:55:36.271",
+    "uuid": "fb54fe80-2fdd-48ea-a5c3-bbab576b9cb2",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 52,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-01-01 - M.sc",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T23:51:57.736",
+    "uuid": "6b81eb04-46d0-4f16-a3d4-db7fa1e71005",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 53,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-01",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-28T23:55:46.073",
+    "uuid": "5c60fade-8234-401c-b4db-f1332620bf16",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 54,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2015-2016)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-29T00:02:26.297",
+    "uuid": "5c6c099e-537c-41b0-b175-d682ca7a56b9",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "1"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 55,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2015-2016)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-29T00:02:39.007",
+    "uuid": "e0e881f5-b0db-4393-8125-7cd9957a13bd",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 56,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2015-2016)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-29T00:04:29.305",
+    "uuid": "61fa0457-bc57-42ab-89c2-185b38db1335",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 57,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2019-2020)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-29T00:04:40.904",
+    "uuid": "d9ca036f-4551-4706-af26-d15928215222",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 58,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2019-2020)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-29T00:22:40.661",
+    "uuid": "ac8bb32e-24d1-4ac5-80e3-3468d431d083",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 59,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2020-2021)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-29T00:22:53.775",
+    "uuid": "af7cc9d1-8667-4b2d-91c8-7d77057e809e",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 60,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-01 (2021-2022)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-29T00:23:04.262",
+    "uuid": "ebce807e-f470-4caa-b304-f8bd8664ddaf",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 61,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-01-02",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:23:34.967",
+    "uuid": "a77ab512-8ccd-4517-b513-2a00d87a1c2f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 62,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-02",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:23:50.055",
+    "uuid": "55aedf28-b4f2-43fc-a7d1-b505f8235e69",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 63,
+  "fields": {
+    "content_type": [
+      "departments",
+      "department"
+    ],
+    "label": "Yarn Engineering",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:24:42.614",
+    "uuid": "e0578c93-3d51-42c1-82a5-8b5a786cac82",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "12"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 64,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:25:50.388",
+    "uuid": "28a40950-0d4d-4003-a3dd-22a670f6ad41",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 65,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:26:03.467",
+    "uuid": "bf0222a1-1113-4b1f-a488-e6ee132b145d",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 66,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:26:09.979",
+    "uuid": "3e8599ff-f395-4844-a032-c1017d04fcfc",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 67,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:26:17.187",
+    "uuid": "792b56d9-cea2-4030-a7f4-3ad9138ea48f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 68,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T00:26:27.249",
+    "uuid": "9c7339e1-73e3-4569-a29d-82d2cf9fe4b2",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "3"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 69,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T21:48:44.661",
+    "uuid": "3b2d4e07-4ee5-4ef1-9869-3014aeb9d980",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 70,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-29T23:38:23.383",
+    "uuid": "580df92f-d415-4344-927c-60fbe3c22742",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 71,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2015-2016)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T00:23:41.348",
+    "uuid": "54ee61c0-6030-4d45-a6b5-9dbcd96de298",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 72,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-30T01:09:52.268",
+    "uuid": "876edf05-8cef-4a98-b4a9-82f18965554c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 73,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Controller of Exam",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-30T01:12:44.921",
+    "uuid": "7d8480c5-9692-4999-876a-210b27ff9fb7",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 74,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2015-2016)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-30T04:33:43.968",
+    "uuid": "6fb13e58-4932-4cbc-a5b7-2631135d5c39",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "6"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 75,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2021-2022)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-30T04:33:48.198",
+    "uuid": "4cd31368-27cc-4932-b78f-22dbb41c2172",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "5"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 76,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2020-2021)",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-30T04:33:51.788",
+    "uuid": "a255994e-3af4-4a01-a544-8aa2f9bf713a",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 77,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2022-2023)",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T04:34:41.936",
+    "uuid": "c48fdcad-f494-42bb-9876-65369e5f540f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "7"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 78,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-30 23:16:26.509213",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T23:16:26.712",
+    "uuid": "9cd3044b-19d7-42d2-819f-f2cc86a0af63",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "10"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 79,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-30 23:26:54.246592",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T23:26:54.513",
+    "uuid": "fbc197d9-16bb-4464-a650-0d85de3c1e93",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "11"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 80,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-30 23:28:09.583370",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T23:28:47.203",
+    "uuid": "8b9612cc-3983-434d-bcb2-534fb9014146",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "12"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 81,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-30 23:36:30.574822",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-30T23:37:06.647",
+    "uuid": "de8ddb59-e1e0-43f9-939d-f7de52eab2bd",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "13"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 82,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 00:06:53.145308",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T00:06:53.314",
+    "uuid": "eb225389-5f21-4493-b4c8-3e698df8793b",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "15"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 83,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 00:07:14.953456",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T00:07:36.253",
+    "uuid": "5ae6b91f-5453-4b2a-b615-44c3bbe582e3",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "16"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 84,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 00:22:41.082539",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T00:22:41.264",
+    "uuid": "335825d7-2eed-46a7-b9e1-4879ad5526d4",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "18"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 85,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 00:23:49.732873",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T00:23:50.558",
+    "uuid": "37c7efeb-6e82-46d7-9524-a14482e9dddd",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "20"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 86,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 00:39:33.315703",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T00:39:33.641",
+    "uuid": "dc70caaa-4fb6-478a-ab15-1b89dd0f2e95",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "22"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 87,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:11:30.708716",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:11:31.093",
+    "uuid": "4dc36ee3-f9c7-4bd2-9739-20c62297f195",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "24"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 88,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:23:38.485080",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:23:38.739",
+    "uuid": "8fbf01a0-ce02-414d-abb1-89680a90ac39",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "25"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 89,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:25:22.266977",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:25:22.501",
+    "uuid": "b0e8de33-2427-40a4-aa9a-edbe373b8b5d",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "26"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 90,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:45:28.592855",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:45:28.916",
+    "uuid": "3907c4d9-ff69-4b9e-9628-eca8505b8537",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "27"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 91,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:47:37.566822",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:47:37.954",
+    "uuid": "561030e6-1627-4df3-b2b5-604f5fe47c01",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "28"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 92,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:50:23.338709",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T01:50:23.636",
+    "uuid": "4015bb11-341f-4d0b-a362-1772a6d6dcb7",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "29"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 93,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 01:50:23.338709",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T02:28:58.476",
+    "uuid": "445572af-aae8-4b52-9040-630958719b27",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "29"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 94,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 02:58:54.605050",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T02:58:54.818",
+    "uuid": "46a5c626-185d-43b1-b7e9-e7b938cdeeff",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "30"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 95,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 02:58:54.605050",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T03:53:44.889",
+    "uuid": "bd4b5652-14e8-4d8f-bb97-8a7ff098fba3",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "30"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 96,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 04:17:00.680011",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T04:17:00.910",
+    "uuid": "a756c325-5ee2-47ea-8dfa-b15a824c1532",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "31"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 97,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 04:30:23.290489",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T04:30:23.437",
+    "uuid": "f981cad0-f4fd-4379-b8bc-00174a1d7e21",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "32"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 98,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 04:35:37.134621",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T04:35:37.216",
+    "uuid": "4b1c3766-2616-475d-abcd-8d917f867a28",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "33"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 99,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 05:06:18.580198",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T05:06:18.788",
+    "uuid": "792ab71b-0183-4dc6-b364-bb51d74a38c3",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "34"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 100,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 05:42:27.642193",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T05:42:27.727",
+    "uuid": "c942d83a-1afb-4dbc-90cd-bf029f521aae",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "35"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 101,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:09:43.072453",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:09:43.400",
+    "uuid": "429b1218-6216-4172-aa3a-0cacdf937492",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "38"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 102,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:12:03.678389",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:12:04.034",
+    "uuid": "38ea72e8-d205-4e54-bf2f-faf48b11b7b4",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "39"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 103,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:12:03.678389",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T06:14:59.525",
+    "uuid": "9e328c8d-fe07-437c-9330-8e03e6404c53",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "39"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 104,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:35:46.900513",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:35:47.365",
+    "uuid": "2b36f3d7-de61-4326-9ed8-d9361c932931",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "41"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 105,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:38:42.179481",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:38:42.569",
+    "uuid": "7499587f-0d59-4c92-b7e0-6deee541c882",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "42"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 106,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:40:12.619652",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:40:12.793",
+    "uuid": "b5b4a018-2fab-412f-8ec3-fad1d9f14f7d",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "43"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 107,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:42:49.393951",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:42:49.726",
+    "uuid": "5737e18a-3e9d-40c6-9f9e-8897801c373b",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "44"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 108,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:42:49.393951",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T06:45:32.865",
+    "uuid": "91f7335d-b77c-4320-991d-54cb33b0dee0",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "44"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 109,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:42:49.393951",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T06:53:07.921",
+    "uuid": "83ab8765-d378-4e99-8f24-e6ff73d35514",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "44"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 110,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:53:23.013086",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:53:23.461",
+    "uuid": "3e8c89af-da82-4dd6-909f-02ab89336db0",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "45"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 111,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:53:23.013086",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T06:55:34.316",
+    "uuid": "2c0645a7-3925-43b1-aa52-4e012d0114d5",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "45"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 112,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:55:53.228373",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:55:53.694",
+    "uuid": "22592e22-d73f-48ac-b5c2-d7615446be66",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "46"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 113,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:55:53.228373",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T06:59:24.344",
+    "uuid": "145c6a6a-1e9f-40dc-84c7-5c4340e5ae0c",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "46"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 114,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:59:38.283615",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T06:59:38.700",
+    "uuid": "b230a7a8-aabd-455b-b5d1-0071fac9dd8c",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "47"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 115,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 06:59:38.283615",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:02:04.560",
+    "uuid": "76aaa64b-4e9d-403f-9110-f57449ccccda",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "47"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 116,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:02:19.261159",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:05:09.617",
+    "uuid": "d9da3948-61d1-415f-97fc-8640c47a3dfe",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "48"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 117,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:06:11.988547",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:07:57.888",
+    "uuid": "74a43e77-6e20-452d-9344-a448b49b650d",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "49"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 118,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:14:32.277066",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:14:32.663",
+    "uuid": "900ae152-de71-4621-9d16-325d239a6ce7",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "50"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 119,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:14:32.277066",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:19:31.770",
+    "uuid": "8a93553f-9e6f-42f2-82a9-79306562db64",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "50"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 120,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:19:48.065241",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:19:48.396",
+    "uuid": "6d190079-c8ed-4751-87aa-548eb28b0b76",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "51"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 121,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:19:48.065241",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:24:50.356",
+    "uuid": "8e04eab1-5d2b-431c-ab5a-9f9faa215cd9",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "51"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 122,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:31:14.859061",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:31:15.066",
+    "uuid": "35d55c2e-4e85-4483-b32c-6129ca620607",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "52"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 123,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:32:53.960518",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:32:54.078",
+    "uuid": "898b5f8d-1d06-4cd5-a670-54987bbf58c0",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "53"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 124,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:34:12.422743",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:34:12.767",
+    "uuid": "a2a71e31-aac3-4d89-bd4b-853808c3f35b",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "54"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 125,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:34:12.422743",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:45:49.072",
+    "uuid": "00d979e4-4396-4b5e-aeec-54beabe7aa3b",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "54"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 126,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:46:03.125568",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:46:03.509",
+    "uuid": "1b77ecc9-0504-4d1a-86ca-1ca00c32851f",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "55"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 127,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:46:03.125568",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:50:02.958",
+    "uuid": "961456f6-7d38-46af-bb87-90c61a149ab8",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "55"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 128,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:50:15.496211",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:50:15.704",
+    "uuid": "6341e8c1-fce9-422d-b489-40fd89795a50",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "56"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 129,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:50:15.496211",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T07:59:22.644",
+    "uuid": "3415352c-a240-4b81-acfd-59c9c1f455d8",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "56"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 130,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:59:36.138401",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T07:59:36.624",
+    "uuid": "3ed21631-f427-494b-915e-e8030e5977f1",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "57"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 131,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 07:59:36.138401",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T08:03:00.641",
+    "uuid": "dea7ad55-200a-46c3-b469-1b1ad0ffe935",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "57"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 132,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:03:15.672300",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T08:03:16.042",
+    "uuid": "944b9264-e599-4576-a552-7f4deb7059c6",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "58"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 133,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:03:15.672300",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T08:07:54.392",
+    "uuid": "25f52111-ee5a-4745-8bc1-ca97fa30f1c8",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "58"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 134,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:08:07.284918",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T08:08:07.656",
+    "uuid": "c93e84a9-3764-4f4e-80b4-fb7a31635da1",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "59"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 135,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:08:07.284918",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T08:12:17.244",
+    "uuid": "8867eb96-6421-4f56-96fe-62ceff0de841",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "59"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 136,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:12:29.082685",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T08:12:29.378",
+    "uuid": "101a2e23-0150-43a8-abcb-8431b9f1ebe3",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "60"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 137,
+  "fields": {
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "label": "Faculty Member",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T08:16:36.544",
+    "uuid": "2b0b951d-0032-49ac-bc33-6e8e2a7c51dc",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "4"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 138,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batchyear"
+    ],
+    "label": "YE-02 (2022-2023)",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T08:17:15.895",
+    "uuid": "c55c9fda-612f-466c-943c-e3085f9924fc",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "7"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 139,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:03:50.241",
+    "uuid": "c65b1fdc-0a3a-4513-99de-114b28694ebb",
+    "user": [
+      "111204003"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 140,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:09:13.013",
+    "uuid": "bdc99ceb-31f6-40a9-8a13-1da538885b38",
+    "user": [
+      "111204003"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 141,
+  "fields": {
+    "content_type": [
+      "departments",
+      "batch"
+    ],
+    "label": "YE-02",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T09:11:44.042",
+    "uuid": "79edf2ea-67cc-49b1-93b2-e8e709f3e84f",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "2"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 142,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 08:12:29.082685",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T09:19:54.294",
+    "uuid": "fe45d676-7b93-43b2-8776-a8b2a6df5284",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "60"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 143,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:26:07.987784",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:26:08.477",
+    "uuid": "a5f9092d-62e6-4503-a445-1089a757fddc",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "61"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 144,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:26:07.987784",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T09:31:24.800",
+    "uuid": "6c7f7274-665e-444a-8093-79ffedfb6c3a",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "61"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 145,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:31:43.445372",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:31:44.024",
+    "uuid": "a7137d0f-dbf3-48fe-8812-148991a619cd",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "62"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 146,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:31:43.445372",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T09:36:11.219",
+    "uuid": "83ca46e9-642c-46f7-85a4-c8f83f834830",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "62"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 147,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:36:50.778428",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:36:51.260",
+    "uuid": "71cba617-3aef-404c-b943-2b6c7b09151d",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "63"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 148,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T09:37:54.343",
+    "uuid": "d320ced9-160d-4353-82db-959ba8c7504c",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 149,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T09:38:15.401",
+    "uuid": "fb73e13f-7069-4920-9d27-bcc839f0532a",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 150,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHRISTOPHER MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T09:38:16.076",
+    "uuid": "ba79b1f1-1ee2-4b83-bf35-75c9b42efec6",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 151,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:36:50.778428",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T09:38:28.554",
+    "uuid": "3cd77f92-b37a-4b42-b13a-4f09fcab8ad9",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "63"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 152,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:38:45.128143",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:38:45.858",
+    "uuid": "ecb426a1-4eba-4fe2-932f-d93ffcf50a06",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "64"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 153,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:38:45.128143",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T09:41:31.874",
+    "uuid": "aeab93da-6cd2-40bf-ad62-6c0832f2fdfb",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "64"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 154,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:41:47.396017",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:41:47.888",
+    "uuid": "ebfe4fe1-07c6-4da2-96cf-5111093c814e",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "65"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 155,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:47:45.094301",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T09:47:45.723",
+    "uuid": "d69256aa-0fe3-4744-b19a-fad7685a6504",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "66"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 156,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 10:02:38.196105",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T10:02:38.700",
+    "uuid": "11a937d7-4d5e-4f1d-b511-f7a40db80586",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "67"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 157,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 09:47:45.094301",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2022-08-31T10:14:14.951",
+    "uuid": "32f981b7-80be-46f5-ab09-bd536a8312c4",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "66"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 158,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 10:14:32.717737",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-31T10:14:33.080",
+    "uuid": "d4b268af-2233-438f-90c0-d3b2be52669b",
+    "user": [
+      "111205004"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "68"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 159,
+  "fields": {
+    "content_type": [
+      "custom_dashboard",
+      "studentrecords"
+    ],
+    "label": "Batch Record - 2022-08-31 10:14:32.717737",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T10:41:26.893",
+    "uuid": "5e43e004-2f27-483e-b6fa-b90648ecc2f6",
+    "user": [
+      "111206007"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "68"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 160,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CAEL MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T11:31:17.349",
+    "uuid": "bc3e141b-51c3-46cc-92d3-2574824924f7",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "8"
+  }
+},
+{
+  "model": "wagtailcore.modellogentry",
+  "pk": 161,
+  "fields": {
+    "content_type": [
+      "users",
+      "customuser"
+    ],
+    "label": "CHEYANNE MADRILEJO",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2022-08-31T11:31:28.327",
+    "uuid": "d2e92b57-7fb7-4713-99e6-90a87568c910",
+    "user": [
+      "papa"
+    ],
+    "content_changed": false,
+    "deleted": false,
+    "object_id": "9"
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 1,
+  "fields": {
+    "path": "0001",
+    "depth": 1,
+    "numchild": 2,
+    "translation_key": "a7031b6e-d609-4758-b75b-4ac2ce001dab",
+    "locale": 1,
+    "title": "Root",
+    "draft_title": "Root",
+    "slug": "root",
+    "content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "live": true,
+    "has_unpublished_changes": false,
+    "url_path": "/",
+    "owner": null,
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "first_published_at": null,
+    "last_published_at": null,
+    "latest_revision_created_at": null,
+    "live_revision": null,
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 3,
+  "fields": {
+    "path": "00010001",
+    "depth": 2,
+    "numchild": 0,
+    "translation_key": "52427f64-c88b-40a3-a189-f73351b149ff",
+    "locale": 1,
+    "title": "Home",
+    "draft_title": "Home",
+    "slug": "home",
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "live": true,
+    "has_unpublished_changes": false,
+    "url_path": "/home/",
+    "owner": null,
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "first_published_at": null,
+    "last_published_at": null,
+    "latest_revision_created_at": null,
+    "live_revision": null,
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 4,
+  "fields": {
+    "path": "00010002",
+    "depth": 2,
+    "numchild": 1,
+    "translation_key": "b1e2ddb9-bfc0-4126-9b25-532b50e3fc5c",
+    "locale": 1,
+    "title": "Base Student Router",
+    "draft_title": "Base Student Router",
+    "slug": "base-student-router",
+    "content_type": [
+      "students",
+      "studenthomepageroute"
+    ],
+    "live": true,
+    "has_unpublished_changes": false,
+    "url_path": "/base-student-router/",
+    "owner": [
+      "papa"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "first_published_at": "2022-08-28T14:42:45.043",
+    "last_published_at": "2022-08-28T14:42:45.043",
+    "latest_revision_created_at": "2022-08-28T14:42:44.930",
+    "live_revision": 1,
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 5,
+  "fields": {
+    "path": "000100020001",
+    "depth": 3,
+    "numchild": 0,
+    "translation_key": "10e1d0c9-87ac-4719-b0df-829e1abd6077",
+    "locale": 1,
+    "title": "first",
+    "draft_title": "first",
+    "slug": "first",
+    "content_type": [
+      "students",
+      "studenthomepage"
+    ],
+    "live": true,
+    "has_unpublished_changes": false,
+    "url_path": "/base-student-router/first/",
+    "owner": [
+      "papa"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "first_published_at": "2022-08-28T14:44:04.352",
+    "last_published_at": "2022-08-28T14:44:04.352",
+    "latest_revision_created_at": "2022-08-28T14:44:04.291",
+    "live_revision": 2,
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.pagerevision",
+  "pk": 1,
+  "fields": {
+    "page": 4,
+    "submitted_for_moderation": false,
+    "created_at": "2022-08-28T14:42:44.930",
+    "user": [
+      "papa"
+    ],
+    "content": {
+      "pk": 4,
+      "live": true,
+      "path": "00010002",
+      "slug": "base-student-router",
+      "depth": 2,
+      "owner": 1,
+      "title": "Base Student Router",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/base-student-router/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Base Student Router",
+      "content_type": 17,
+      "live_revision": null,
+      "show_in_menus": false,
+      "translation_key": "b1e2ddb9-bfc0-4126-9b25-532b50e3fc5c",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.pagerevision",
+  "pk": 2,
+  "fields": {
+    "page": 5,
+    "submitted_for_moderation": false,
+    "created_at": "2022-08-28T14:44:04.291",
+    "user": [
+      "papa"
+    ],
+    "content": {
+      "pk": 5,
+      "live": true,
+      "logo": null,
+      "path": "000100020001",
+      "slug": "first",
+      "depth": 3,
+      "owner": 1,
+      "title": "first",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/base-student-router/first/",
+      "expire_at": null,
+      "institute": 1,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "first",
+      "announcement": "<p data-block-key=\"30549\">test announcement</p>",
+      "content_type": 16,
+      "live_revision": null,
+      "show_in_menus": false,
+      "welcome_title": "<p data-block-key=\"ucbld\">welcome title </p>",
+      "translation_key": "10e1d0c9-87ac-4719-b0df-829e1abd6077",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "students",
+      "studenthomepageroute"
+    ],
+    "label": "Base Student Router",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:42:44.853",
+    "uuid": "07228a29-555c-431b-a132-41af5b25045a",
+    "user": [
+      "papa"
+    ],
+    "content_changed": true,
+    "deleted": false,
+    "page": 4,
+    "revision": null
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 2,
+  "fields": {
+    "content_type": [
+      "students",
+      "studenthomepageroute"
+    ],
+    "label": "Base Student Router",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2022-08-28T14:42:45.260",
+    "uuid": "07228a29-555c-431b-a132-41af5b25045a",
+    "user": [
+      "papa"
+    ],
+    "content_changed": true,
+    "deleted": false,
+    "page": 4,
+    "revision": 1
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 3,
+  "fields": {
+    "content_type": [
+      "students",
+      "studenthomepage"
+    ],
+    "label": "first",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2022-08-28T14:44:04.241",
+    "uuid": "18afe7ef-a717-4fcb-8656-a7fbaa121207",
+    "user": [
+      "papa"
+    ],
+    "content_changed": true,
+    "deleted": false,
+    "page": 5,
+    "revision": null
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 4,
+  "fields": {
+    "content_type": [
+      "students",
+      "studenthomepage"
+    ],
+    "label": "first",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2022-08-28T14:44:04.473",
+    "uuid": "18afe7ef-a717-4fcb-8656-a7fbaa121207",
+    "user": [
+      "papa"
+    ],
+    "content_changed": true,
+    "deleted": false,
+    "page": 5,
+    "revision": 2
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "papa"
+    ],
+    "page": 4,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "papa"
+    ],
+    "page": 5,
+    "comment_notifications": true
+  }
+}
+]

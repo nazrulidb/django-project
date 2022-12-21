@@ -1,0 +1,191 @@
+{% load static %}
+{% load full_path %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <title>{{full_name}} - Provisional Certificate</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+  
+    <link href="{% static 'app/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+
+    <!--  BEGIN CUSTOM STYLE FILE  -->
+    <link href="{% static 'app/assets/css/apps/invoice.css' %}" rel="stylesheet" type="text/css" />
+    <!--  END CUSTOM STYLE FILE  -->
+    <link href="{% static 'base/css/cert_fonts.css' %}" rel="stylesheet" type="text/css" />
+    <style>
+    
+        #ct{
+            color:black;
+            text-align:center;
+        }
+        .cert-title{
+            font-family: CloisterBlack;
+            color: black;
+            font-size: 4rem;
+        }
+        .cert-logo{
+            object-fit: scale-down;
+            width: 135px;
+            margin-bottom:1rem;
+        }
+        .cert-second-title{
+            font-family: NK_Mono;
+            font-size: 18pt;
+        }
+        .cert-degree-title{
+            font-family: CloisterBlack;
+            color: black;
+            font-size: 24pt;
+        }
+        .cert-intro{
+            font-family: Palace_Script_MT_Semi_Bold;
+            color: black;
+            font-size: 24pt;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .cert-body{
+            font-family: PinyonScript-Regular;
+            font-size:18pt;
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+        .cert-body-lower{
+            font-size:2.5rem;
+        }
+        .first-p{
+            height: 35px;
+            width: 100%;
+            display: flex;
+            position:relative;
+            margin:auto;
+            margin-bottom:0px;
+        }
+       
+        span.full-name{
+            position: absolute;
+            margin: auto;
+            width: 100%;
+            text-align:center;
+        }
+        span.var{
+            text-decoration: underline;
+            text-decoration-skip-ink: none;
+            font-size:12pt;
+        }
+        span.var.hrw{
+            font-family: LucidaHandwritingStdLight;
+            
+        }
+        span.var.no-underline{
+            text-decoration: unset !important;
+            font-size:18pt;
+        }
+        .cert-body-lower{
+            margin-top:1.5rem;
+            font-family: PinyonScript-Regular;
+            padding-left: 2rem;
+            padding-right: 2rem;
+            font-size:2rem;
+        }
+    </style>
+</head>
+<body class="alt-menu sidebar-noneoverflow">
+<div id="ct" class="" style="display: block;">
+                                        
+
+    <div class="content-section  animated animatedFadeInUp fadeInUp">
+
+        <div class="row inv--head-section">
+            <div class="col-12">
+                <h1 class="in-heading cert-title">Bangladesh University of Textiles
+                    Dhaka
+                </h1>
+            </div>
+            <div class="col-12">
+                <img src="{% static 'images/cert_logo.png' %}" class="cert-logo">
+            </div>
+            <div class="col-12">
+                <h3 class="in-heading cert-second-title">
+                    PROVISIONAL CERTIFICATE <br>
+                    FOR
+                </h3>
+            </div>
+            <div class="col-12">
+                <h2 class="in-heading cert-degree-title">
+                    {{degree}} in Textile Engineering
+                </h2>
+            </div>
+            
+            <div class="col-12">
+                <h2 class="in-heading cert-intro">
+                    This is to Certify that
+                </h2>
+            </div>
+        </div>
+
+        <div class="row inv--detail-section mt-4 cert-body">
+            <div class="container" style="width:100%;">
+                <p class="first-p">
+                    <i class="full-name">{{full_name}}</i>
+                </p>
+            </div>
+
+<p class="base-p" style="text-align: justify; word-spacing: 10px;tab-size: 4px;">
+having   passed   the   Examination   of   <span class="var">{{year}}</span>   obtained    the Degree of 
+<span class="var no-underline">{{degree}}</span> in textile Engineering 
+<span class="var hrw">({{department}})</span>   in   this    University   and   Secured   Cumulative
+Grade    Point     Average   (CGPA)   of   <span class="var hrw">{{cgpa}}</span> on a scale of 
+4.00.   He/she   fulfilled   all   the   requirements   for   the   degree   in   the 
+month    of    <span class="var hrw">{{date}}</span>.
+</p>
+
+        </div>
+
+        <div class="row cert-body-lower">
+            <br>
+            <table style="padding-left:1rem;padding-right:1rem;width: 100%;">
+                <tr>
+                    <td style="text-align:left;font-size:1.2rem; width:50%;">
+                        Dated Dhaka
+                    </td>
+                    <td style="text-align:right;font-size:1.2rem; width:50%;">
+                        __________________________
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;font-size:1.1rem;">
+                        The______________
+                    </td>
+                    <td style="text-align:right;font-size:1.1rem;">
+                        Controller of Examination
+                    </td>
+                </tr>
+            </table>     
+        </div>
+
+    </div>
+
+</div>
+
+<!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+<script src="{% static 'app/assets/js/libs/jquery-3.1.1.min.js' %}"></script>
+<script src="{% static 'app/bootstrap/js/popper.min.js' %}"></script>
+<script src="{% static 'app/bootstrap/js/bootstrap.min.js' %}"></script>
+
+<script src="{% static 'app/assets/js/app.js' %}"></script>
+
+<script>
+    $(document).ready(function() {
+        App.init();
+    });
+</script>
+<script src="{% static 'app/assets/js/custom.js' %}"></script>
+<script src="{% static 'app/assets/js/apps/invoice.js' %}"></script>
+</body>
+</html>

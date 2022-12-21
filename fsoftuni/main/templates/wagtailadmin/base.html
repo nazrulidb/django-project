@@ -1,0 +1,85 @@
+{% extends "wagtailadmin/admin_base.html" %}
+{% load wagtailadmin_tags wagtailcore_tags i18n static %}
+
+{% block furniture %}
+    <script>
+        window.addEventListener('load', (event) => {
+            $(".icon-search").on('click', function(){
+                $(this).closest('form').submit();
+            })
+            
+            let t = $("label:contains('Wagtail')").html()
+            console.log(t)
+            if(t){
+                $("label:contains('Wagtail')").html(t.replaceAll('Wagtail', ' Butex '));
+            }
+            let p = $("p:contains('Wagtail')").html()
+            if(p){
+                $("p:contains('Wagtail')").html(p.replaceAll('Wagtail', ' Butex '));
+            }
+
+            if(!window.location.pathname.startsWith('/cms/institutes/institute/') && !window.location.pathname.startsWith('/cms/departments/department/')){
+                $('input[type="text"]').attr('maxlength', 60);
+            }
+            try{
+                registerWorker().then(function(worker_registration){
+                    if(worker_registration){
+                        console.log('init firebase with worker ', worker_registration)
+                        //initFirebase(worker_registration);
+                    }
+                })
+            }catch{
+
+            }
+            function registerWorker(){
+                return navigator.serviceWorker.register('{% url "service_worker" %}', { scope: '/'}).then(function(worker_registration) {
+                        console.log('ServiceWorker registration successful with scope: ', worker_registration.scope);
+                        return navigator.serviceWorker.ready.then(registration => {
+                            return registration;
+                        })
+                    }, function(err) {
+                        console.log('ServiceWorker registration failed: ', err);
+                        return null;
+                    });
+            }
+
+            
+        })  
+    </script>
+    <template data-wagtail-sidebar-branding-logo>
+        {% block branding_logo %}
+            <img src="{% static 'images/BUET_LOGO.svg.png' %}" alt="Custom Project" width="80" />
+        {% endblock %}
+    </template>
+    {% sidebar_props %}
+    <aside id="wagtail-sidebar" class="sidebar-loading" data-wagtail-sidebar aria-label="{% trans 'Sidebar' %}"></aside>
+    <main class="content-wrapper w-overflow-x-hidden" id="main">
+        <div class="content">
+            {# Always show messages div so it can be appended to by JS #}
+            <div class="messages">
+                {% if messages %}
+                    <ul>
+                        {% for message in messages %}
+                            {% message_level_tag message as level_tag %}
+                            <li class="{% message_tags message %}">
+                                {% if level_tag == "error" %}
+                                    {# There is no error icon, use warning icon instead #}
+                                    {% icon name="warning" class_name="messages-icon" %}
+                                {% elif message.extra_tags == "lock" %}
+                                    {% icon name="lock" class_name="messages-icon" %}
+                                {% elif message.extra_tags == "unlock" %}
+                                    {% icon name="lock-open" class_name="messages-icon" %}
+                                {% else %}
+                                    {% icon name=level_tag class_name="messages-icon" %}
+                                {% endif %}
+                                {{ message|safe }}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+{% endblock %}

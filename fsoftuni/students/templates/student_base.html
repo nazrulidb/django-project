@@ -1,0 +1,116 @@
+{% load static wagtailcore_tags wagtailuserbar %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>
+            {% block title %}
+            {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }}{% endif %}
+            {% endblock %}
+            {% block title_suffix %}
+            {% wagtail_site as current_site %}
+            {% if current_site and current_site.site_name %}- {{ current_site.site_name }}{% endif %}
+            {% endblock %}
+        </title>
+        <meta name="description" content="{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }}{% endif %}" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+  
+        <link rel="icon" type="image/x-icon" href="{% static 'app/assets/img/favicon.ico"/>
+        <link href="{% static 'app/assets/css/loader.css' %}" rel="stylesheet" type="text/css" />
+        <script src="{% static 'app/assets/js/loader.js' %}"></script>
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,600,700&display=swap" rel="stylesheet">
+        <link href="{% static 'app/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css" />
+        <link href="{% static 'app/assets/css/plugins.css' %}" rel="stylesheet" type="text/css" />
+        <style>
+            body{
+                background-color:white;
+            }
+            .table > tbody > tr > td {
+                vertical-align: middle;
+                color: #515365;
+                font-size: 9px;
+                font-weight: bold;
+                letter-spacing: 1px;
+            }
+        </style>
+        {# Global stylesheets #}
+        
+
+        {% block extra_css %}
+        {# Override this in templates to add extra stylesheets #}
+        {% endblock %}
+    </head>
+
+    <body class="{% block body_class %}{% endblock %}alt-menu sidebar-noneoverflow">
+        {% wagtailuserbar %}
+         <!-- BEGIN LOADER -->
+        <div id="load_screen"> <div class="loader"> <div class="loader-content">
+            <div class="spinner-grow align-self-center"></div>
+        </div></div></div>
+        <!--  END LOADER -->
+
+        <!--  BEGIN NAVBAR  -->
+        {% include 'fragments/header.html' %}
+        <!--  END NAVBAR  -->
+        
+        
+        <!--  BEGIN MAIN CONTAINER  -->
+        <div class="main-container" id="container">
+
+            <div class="overlay"></div>
+            <div class="search-overlay"></div>
+
+            <!--  BEGIN TOPBAR  -->
+            {% include 'fragments/topnavbar.html' %}
+            <!--  END TOPBAR  -->
+            
+            <!--  BEGIN CONTENT PART  -->
+            <div id="content" class="main-content">
+                <div class="layout-px-spacing" style="display: flex;flex-direction: column;">
+
+                    <div class="page-header pdf-hide">
+                        {% block content_header %}{% endblock %}
+                    </div>
+
+                    <div class="row layout-top-spacing">
+                        {% block content %}{% endblock %}
+                    </div>
+
+                    <div class="footer-wrapper mt-auto pdf-hide">
+                        <div class="footer-section f-section-1">
+                            <p class="">Copyright © 2022 <a target="_blank" href="#">Fsoftuni</a>, All rights reserved.</p>
+                        </div>
+                        <div class="footer-section f-section-2">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!--  END CONTENT PART  -->
+
+        </div>
+        <!-- END MAIN CONTAINER -->
+        
+    </body>
+
+    {# Global javascript #}
+    <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+    <script src="{% static 'app/assets/js/libs/jquery-3.1.1.min.js' %}"></script>
+    <script src="{% static 'app/bootstrap/js/popper.min.js' %}"></script>
+    <script src="{% static 'app/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'app/plugins/perfect-scrollbar/perfect-scrollbar.min.js' %}"></script>
+    <script src="{% static 'app/assets/js/app.js' %}"></script>
+    <script>
+        $(document).ready(function() {
+            App.init();
+        });
+    </script>
+    <script src="{% static 'app/assets/js/custom.js' %}"></script>
+    <!-- END GLOBAL MANDATORY SCRIPTS -->
+
+    {% block extra_js %}
+    {# Override this in templates to add extra javascript #}
+    {% endblock %}
+</html>

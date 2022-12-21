@@ -1,0 +1,31 @@
+ul[id*="-FORMS"] {
+    width:100% !important;
+    max-width:100% !important;
+    margin-top: 2rem;
+}
+
+.object-layout_big-part fieldset{
+    max-width: 100%;
+    margin-inline-start:unset !important;
+}
+
+.field-content{
+    width:100%;
+}
+
+.mt-2{
+    margin-top:2rem;
+}
+
+li[id*="inline_child_"] fieldset {
+    padding-top:0px !important;
+}
+
+li.hidden{
+    display: none !important;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}

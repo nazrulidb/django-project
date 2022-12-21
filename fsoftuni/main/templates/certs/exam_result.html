@@ -1,0 +1,237 @@
+{% load static %}
+{% load full_path %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <title>{{request.user.full_name}} - Level-{{res.level}} Term-{{res.term}}</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+  
+    <link href="{% static 'app/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css" />
+    <link href="{% static 'app/assets/css/plugins.css' %}" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+
+    <!--  BEGIN CUSTOM STYLE FILE  -->
+    <link href="{% static 'app/assets/css/apps/invoice.css' %}" rel="stylesheet" type="text/css" />
+    <!--  END CUSTOM STYLE FILE  -->
+    <link href="{% static 'base/css/cert_fonts.css' %}" rel="stylesheet" type="text/css" />
+    <style>
+        body{
+            background-color:white;
+        }
+        .table > tbody > tr > td {
+            vertical-align: middle;
+            color: #515365;
+            font-size: 10px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-align:center;
+        }
+        #firstPage{
+            page-break-after: always;
+        }
+        table{
+            background:none;
+        }
+        .pdf-logo{
+            width:75px;
+            margin-right:10px;
+            position: absolute;
+            top: -20px;
+            left: 65px;
+        }
+        .text-right{
+            text-align: right;
+            margin-right:5px;
+            vertical-align: top;
+        }
+        .text-left{
+            text-align:left;
+        }
+    </style>
+</head>
+<body class="alt-menu sidebar-noneoverflow">
+<div id="ct" class="" style="display: block;">
+    <div id="pdfCon{{ res.id }}" data-filter="{{res.level}}-{{res.term}}" class="container pdf-box" style="max-width: 900px;;background-color:white;padding-left:1rem;padding-right:1rem;height:100%;margin-bottom:2rem;">  
+        <div id="firstPage" class="row">
+            {% if not not_demo %}
+            <div class="container" style="text-align:center;margin-bottom:0;margin-top:3rem;">
+                <img src="{% static 'images/BUET_LOGO.svg.png' %}" class="pdf-logo" alt="logo">
+                <h3 style="position:relative;">
+                    
+                    BANGLADESH UNIVERSITY OF TEXTILES
+                </h3>
+                <h5>
+                    GRADE SHEET (PROVISIONAL)
+                </h5>
+            </div>
+            {% endif %}
+            <div class="container" style="text-align:center;margin-bottom:1rem;margin-top:3rem;">
+                <h5>
+                    B. Sc. in {{ request.user.department.name }} (Apparel)
+                </h5>
+                <h5>
+                    Level-{{res.level}} Term-{{res.term}}, Examination-{{res.year}} (Held in November-December,{{ res.exam_held }})
+                </h5>
+            </div>
+            <div class="container">
+                <h5>Student's Name      :   {{request.user}}</h5>
+                <h5>Student's ID  No.   :   {{request.user.username}}</h5>
+            </div>
+            <table id="dTable" class="table table-hover non-hover" style="width:100%;margin-bottom:10px;">
+                <thead>
+                    <tr>
+                        <th>Sl. No.</th>
+                        <th >Subject Code</th>
+                        <th >Name of Subject</th>
+                        <th  style="text-align:center;">Credits</th>
+                        <th>Letter Grade</th>
+                        <th>Grade Points</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in res.get_subjects %}
+                    <tr>
+                        <td>{{ item.no }}</td>
+                        <td>{{ item.code }}</td>
+                        <td style="text-align:left;">{{ item.subject }}</td>
+                        <td>{{ item.credits }}</td>
+                        <td>{{ item.letter_grade }}</td>
+                        <td>{{ item.grade_point }}</td> 
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <table class="table table-hover non-hover" style="width:100%">
+                <thead>
+                    <tr>
+                        <th class="text-right" colspan=6>Total credits taken in the Term:</th>
+                        <th class="text-left" colspan=5>{{ res.get_subject_headers.total_credits_completed_in_this_term }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Total credits completed in the Term:</th>
+                        <th class="text-left" colspan=5>{{ res.get_subject_headers.total_credits_taken_in_this_term }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Grade Point Average (GPA) of the Term:</th>
+                        <th class="text-left" colspan=5>{{ res.get_subject_headers.term_gpa }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Failed Subjects(s) in the Term:</th>
+                        <th class="text-left" colspan=5 style="word-break: break-word;">{{ res.get_subject_headers.failed_subject }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Cummulative Grade Point Average (CGPA):</th>
+                        <th class="text-left" colspan=5>{{ res.get_subject_headers.cgpa }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Results:</th>
+                        <th class="text-left" colspan=5>{{ res.get_subject_headers.result }}</th>
+                    </tr>
+                </thead>
+            </table>
+            <p style="padding-left:1rem;padding-right:1rem;">
+                Minimum Countable Grade Point in Theory: 2.00 (Grade: D); Minimum Countable Grade Point in Practical: 2.25(Grade: C);
+                Requirement for Promotion (From Level to Level): CGPA 2.20 out of 4.00 and the cumulative total number of failed subjects
+                does not exceed the highest limit of 4(Four).
+            </p>
+            {% if not not_demo %}
+            <div class="container">
+                <img style="width:100%;object-fit:scale-down;" src="{% static 'images/grade-footer.png' %}" class="grade-footer img-responsive" alt="logo">
+            </div>
+            {% endif %}
+            
+        </div>
+        {% if res.has_retake_result %}
+        <div class="row">
+            <div class="container" style="text-align:center;margin-bottom:0;margin-top:3rem;">
+                <img src="{% static 'images/BUET_LOGO.svg.png' %}" class="pdf-logo" alt="logo">
+                <h3 style="position:relative;">
+                    BANGLADESH UNIVERSITY OF TEXTILES
+                </h3>
+            </div>
+            <div class="container" style="text-align:center;margin-bottom:1rem;margin-top:3rem;">
+                <h5>
+                    Retake Result
+                </h5>
+            </div>
+            <div class="container">
+                <h5>Student's Name      :   {{request.user}}</h5>
+                <h5>Student's ID  No.   :   {{request.user.username}}</h5>
+            </div>
+            <table id="dTable" class="table table-hover non-hover" style="width:100%;margin-bottom:10px">
+                <thead>
+                    <tr>
+                        <th>Sl. No.</th>
+                        <th >Subject Code</th>
+                        <th >Name of Subject</th>
+                        <th  style="text-align:center;">Credits</th>
+                        <th>Letter Grade</th>
+                        <th>Grade Points</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in res.retake_subject %}
+                    <tr>
+                        <td>{{ item.no }}</td>
+                        <td>{{ item.code }}</td>
+                        <td style="text-align:left;">{{ item.subject }}</td>
+                        <td>{{ item.credits }}</td>
+                        <td>{{ item.letter_grade }}</td>
+                        <td>{{ item.grade_point }}</td> 
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <table class="table table-hover non-hover" style="width:100%;margin-top:10px;">
+                <thead>
+                    <tr>
+                        <th class="text-right" colspan=6>Total credits taken in the Term:</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_completed_in_this_term }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Total credits completed in the Term:</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.total_credits_taken_in_this_term }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Grade Point Average (GPA) of the Term:</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.term_gpa }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Failed Subjects(s) in the Term:</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.failed_subject }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Cummulative Grade Point Average (CGPA):</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.cgpa }}</th>
+                    </tr>
+                    <tr>
+                        <th class="text-right" colspan=6>Results:</th>
+                        <th class="text-left" colspan=4>{{ res.get_subject_headers.result }}</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+<script src="{% static 'app/assets/js/libs/jquery-3.1.1.min.js' %}"></script>
+<script src="{% static 'app/bootstrap/js/popper.min.js' %}"></script>
+<script src="{% static 'app/bootstrap/js/bootstrap.min.js' %}"></script>
+
+<script src="{% static 'app/assets/js/app.js' %}"></script>
+
+<script>
+    $(document).ready(function() {
+        App.init();
+    });
+</script>
+<script src="{% static 'app/assets/js/custom.js' %}"></script>
+<script src="{% static 'app/assets/js/apps/invoice.js' %}"></script>
+</body>
+</html>

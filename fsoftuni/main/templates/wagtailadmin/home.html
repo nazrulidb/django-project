@@ -1,0 +1,27 @@
+{% extends "wagtailadmin/home.html" %}
+{% load wagtailadmin_tags i18n %}
+
+
+
+{% block content %}
+    <header class="header merged header--home">
+        <div class="avatar"><img src="{% avatar_url user %}" alt="" /></div>
+
+        <div class="sm:w-ml-4">
+            <h1 class="header__title">
+                {% block branding_welcome %}
+                    Welcome to the university portal
+                {% endblock %}
+            </h1>
+            <div class="user-name">{{ user|user_display_name }}</div>
+        </div>
+    </header>
+
+    {% if panels %}
+        {% for panel in panels %}
+            {% component panel fallback_render_method=True %}
+        {% endfor %}
+    {% else %}
+        <p>{% trans "This is your dashboard on which helpful information about content you've created will be displayed." %}</p>
+    {% endif %}
+{% endblock %}

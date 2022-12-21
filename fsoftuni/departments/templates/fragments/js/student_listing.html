@@ -1,0 +1,82 @@
+<script>
+$(document).ready(function(){
+    let departmentSelect = $("#id_department");
+    let instituteSelect = $("#id_institute");
+    let batchSelect = $("#id_batch");
+    let init = true;
+    let userID;
+    {% if request.user.is_superuser %}
+    let currentInstitute = instituteSelect.val();
+    getListing(institute_id=currentInstitute);
+    {% else %}
+    let currentInstitute = {{ request.user.institute.id }};
+    getListing(institute_id=currentInstitute, department_id = {{ request.user.department.id }});
+    {% endif %}
+    function getListing(institute_id, department_id=null){
+        
+        if(init){
+            instituteSelect.empty();
+            departmentSelect.empty();
+            batchSelect.empty();
+        }
+
+        $.ajax({
+                type: 'POST',
+                dataType: "json",
+                url: "{% url 'users:get_student_listing' %}",
+                data:{
+                    csrfmiddlewaretoken: '{{ csrf_token }}',
+                    institute_id:institute_id,
+                    department_id:department_id,
+                },
+                cache:false,
+                success:function(res){
+                    console.log(res)
+                    departmentSelect.empty();
+                    batchSelect.empty();
+                    if(res.status === 200){
+                        if(init){
+                            $.each(res.institutes, function(k,v){
+                                instituteSelect.append("<option value='"+v.id+"' code='"+v.code+"'>"+v.name+"</option> ");
+                            })
+                        }
+                        if(res.departments.length){
+                            
+                            $.each(res.departments, function(k,v){
+                                departmentSelect.append("<option value='"+v.id+"' custom-id='"+v.custom_id+"'>"+v.name+"</option> ");
+                            })
+                        }
+                        if(res.batches.length){
+                            
+                            $.each(res.batches, function(k,v){
+                                batchSelect.append("<option value='"+v.id+"' code='"+v.code+"' year='"+v.year+"' degree_id='"+v.degree_id+"'>"+v.name+"</option> ")
+                            })
+                        }
+                    }
+                }
+        }).done(function(){
+            
+            if(init){
+                init = false;
+                instituteSelect.trigger('change')
+            }
+            
+
+        })
+    }
+
+    
+    {% if request.user.is_superuser %}
+    instituteSelect.on('change', function(){
+        currentInstitute = $(this).val();
+        getListing(institute_id=currentInstitute)
+    });
+
+    departmentSelect.on('change', function(){
+        department_id = $(this).val();
+        getListing(institute_id=currentInstitute, department_id=department_id)
+    });
+    {% endif %}
+ 
+})
+</script>

@@ -1,0 +1,125 @@
+<script>
+    $(document).ready(function(){
+        let groupSelect = $("#id_role");
+        let departmentSelect = $("#id_department");
+        let instituteSelect = $("#id_institute");
+        let init = true;
+        let currentGroup = groupSelect.val();
+        let currentInstitute = instituteSelect.val();
+        groupSelect.empty();
+        {% if request.user.is_superuser %}
+        instituteSelect.empty();
+        {% endif %}
+        $.ajax({
+                type: 'GET',
+                dataType: "json",
+                url: "{% url 'users:get_listing' %}",
+                cache:false,
+                success:function(res){
+                    console.log(res)
+                    if(res.status === 200){
+                        
+                        $.each(res.roles, function(k,v){
+                            groupSelect.append("<option value='"+v.id+"' custom-id='"+v.custom_id+"'>"+v.name+"</option> ")
+                        })
+                        {% if request.user.is_superuser %}
+                        $.each(res.institutes, function(k,v){
+                            instituteSelect.append("<option value='"+v.id+"' custom-id='"+v.custom_id+"'>"+v.name+"</option> ")
+                        })
+                        {% endif %}
+    
+                    }
+                }
+        }).done(function(){
+            instituteSelect.trigger('change');
+            if(init){
+                init = false;
+                groupSelect.val(currentGroup);
+                instituteSelect.val(currentInstitute);
+            }
+        })
+    
+    
+        instituteSelect.on('change', function(){
+            console.log($(this).val())
+            departmentSelect.empty();
+    
+            $.ajax({
+                type: 'GET',
+                dataType: "json",
+                url: "{% url 'users:department_list' %}",
+                data:{id:$(this).val()},
+                cache:false,
+                success:function(res){
+                    console.log(res)
+                    if(res.status === 200){
+                        
+                        $.each(res.departments, function(k,v){
+                            console.log(v)
+                            departmentSelect.append("<option value='"+v.id+"' custom-id='"+v.custom_id+"'>"+v.name+"</option> ")
+                        })
+    
+                    }
+                }
+            }).done(function(){
+                updateID();
+            })
+    
+        });
+    
+        departmentSelect.on('change', function(){
+            updateID();
+        });
+    
+        groupSelect.on('change', function(){
+            updateID();
+            option = $(this).find('option[value='+$(this).val()+']').text();
+            if (option === 'Institute Head' || option === 'Controller of Exam' || option === 'Proof Reader of Exam'){
+                $('div[data-contentpath="department"]').hide()
+                departmentSelect.val('')
+            }else{
+                $('div[data-contentpath="department"]').show()
+            }
+        });
+    
+        $("#id_suffix").on('change', function(){
+            updateID();
+        });
+    
+        let userID;
+        function updateID(){
+           
+            instituteId = instituteSelect.val();
+            if(!instituteId){
+                instituteId=''
+            }
+            if(instituteId <= 9){
+                instituteId = "0"+instituteId;
+            }
+            departmentId = departmentSelect.val();
+            if(!departmentId){
+                departmentId=''
+            }
+            if(departmentId <= 9){
+                departmentId = "0"+departmentId;
+            }
+            groupId = groupSelect.val();
+            if(!groupId){
+                groupId=''
+            }
+            if(groupId <= 9){
+                groupId = "0"+groupId;
+            }
+    
+            userID = instituteId + '-' + departmentId + '-' + groupId;
+            if($("#id_suffix").val().length){
+                userID = userID + '-' + $("#id_suffix").val();
+            }
+    
+            $("#id_username").val(userID.replaceAll('-',''));
+        }
+    
+    
+    })
+    </script>
+    

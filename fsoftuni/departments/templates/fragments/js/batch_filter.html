@@ -1,0 +1,106 @@
+<script>
+{% if not view.batch_view %}
+$(document).ready(function(){
+
+let BatchFilter = function(options){
+
+    let vars = {
+        modelName:'',
+        currentEditing: '',
+        dataDegree: null,
+        dataMember: null,
+    };
+    let parentElement;
+    let initDegree;
+    let initMember;
+
+    let root = this;
+
+    this.construct = function(options){
+        url = "/departments/filter/batch/";
+        console.log(options.currentEditing)
+        console.log($.isNumeric(options.currentEditing))
+             
+        if($("#id_department_batch-FORMS").length){
+            parentElement = $("#id_department_batch-FORMS");
+        }else if($('.batch-group').length){
+            parentElement = $('.batch-group');
+        }
+        if(parentElement && options.modelName !== "batch" && options.currentEditing){
+            console.log(parentElement)
+            parentElement.find('select[name="degree"]').find('option:not([value=""])').remove();
+            parentElement.find('select[name="assigned_faculty_member"]').find('option:not([value=""])').remove();
+        }
+        
+        $.ajax({
+            type: 'GET',
+            dataType: "json",
+            url: url,
+            cache:false,
+            data:{
+                id:options.currentEditing,
+                model_name:options.modelName
+            },
+            success:function(res){
+                console.log(res)
+                if(res.status === 200){
+                    options.dataDegree = res.dataDegree;
+                    options.dataMember = res.dataMember;
+                }
+            }
+        }).done(function(){
+            $.extend(vars , options);
+            if(parentElement){
+                bindChange()
+            }
+        })
+    };
+
+ 
+    // this.myPublicMethod = function(){
+    //     console.log(vars.myVar);
+
+    //     myPrivateMethod();
+    // };
+
+    let bindChange = function() {
+        parentElement.on('click', 'select', function(){
+            let el = $(this);
+
+            if(!$(this).hasClass('init') && !el.attr('name').endsWith('year')){
+                console.log('not init')
+                el.addClass('init');
+                let prevD = el.val();
+                if(prevD){
+                    el.find('option:not([value=""])').remove();
+                }
+                if(el.attr('name').endsWith('degree') && vars.dataDegree){
+                    console.log('degree to')
+                    console.log(vars.dataDegree)
+                    $.each(vars.dataDegree, function(k,v){
+                        el.append("<option value='"+v.id+"'>"+v.name+"</option>")
+                    },el.val(prevD))
+                }else if(el.attr('name').endsWith('assigned_faculty_member') && vars.dataMember){
+                    console.log('assigned_faculty_member to')
+                    console.log(vars.dataMember)
+                    $.each(vars.dataMember, function(k,v){
+                        el.append("<option value='"+v.id+"'>"+v.name+"</option>")
+                    },el.val(prevD))
+                }
+            }
+        })
+    };
+
+    this.construct(options);
+
+};
+
+let f = new BatchFilter({ 
+                        currentEditing : '{{ view.instance_pk }}',
+                        modelName: '{{ view.model_name }}',
+                    });
+
+
+})
+{% endif %}
+</script>
